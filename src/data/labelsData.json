@@ -1,0 +1,5286 @@
+[
+ {
+  "label_Id": 1,
+  "label_Text": "Users"
+ },
+ {
+  "label_Id": 2,
+  "label_Text": "Users Permission"
+ },
+ {
+  "label_Id": 3,
+  "label_Text": "Sales Invoice"
+ },
+ {
+  "label_Id": 4,
+  "label_Text": "Purches Bill"
+ },
+ {
+  "label_Id": 5,
+  "label_Text": "Return Sales bill"
+ },
+ {
+  "label_Id": 6,
+  "label_Text": "Return Purchases bill"
+ },
+ {
+  "label_Id": 7,
+  "label_Text": "Customers"
+ },
+ {
+  "label_Id": 8,
+  "label_Text": "Suppliers"
+ },
+ {
+  "label_Id": 9,
+  "label_Text": "Items"
+ },
+ {
+  "label_Id": 10,
+  "label_Text": "Units"
+ },
+ {
+  "label_Id": 11,
+  "label_Text": "Stores"
+ },
+ {
+  "label_Id": 12,
+  "label_Text": "Categorys"
+ },
+ {
+  "label_Id": 13,
+  "label_Text": "Customers Payments"
+ },
+ {
+  "label_Id": 14,
+  "label_Text": "Suppliers Payments"
+ },
+ {
+  "label_Id": 15,
+  "label_Text": "Return Customers Payment"
+ },
+ {
+  "label_Id": 16,
+  "label_Text": "Return Suppliers Payment"
+ },
+ {
+  "label_Id": 17,
+  "label_Text": "Items Reatch To Limit Order"
+ },
+ {
+  "label_Id": 18,
+  "label_Text": "Report Items Data"
+ },
+ {
+  "label_Id": 19,
+  "label_Text": "Report Follow Items Balance"
+ },
+ {
+  "label_Id": 20,
+  "label_Text": "Company Seetings"
+ },
+ {
+  "label_Id": 21,
+  "label_Text": "Copy Item To Store"
+ },
+ {
+  "label_Id": 22,
+  "label_Text": "Cities"
+ },
+ {
+  "label_Id": 23,
+  "label_Text": "Order Status Summery"
+ },
+ {
+  "label_Id": 24,
+  "label_Text": "BanK Income"
+ },
+ {
+  "label_Id": 25,
+  "label_Text": "Report Customers Data"
+ },
+ {
+  "label_Id": 26,
+  "label_Text": "Report Suppliers Data"
+ },
+ {
+  "label_Id": 27,
+  "label_Text": "Report Customers Payments"
+ },
+ {
+  "label_Id": 28,
+  "label_Text": "Report Suppliers Payment"
+ },
+ {
+  "label_Id": 29,
+  "label_Text": "Report Return Customers Payment"
+ },
+ {
+  "label_Id": 30,
+  "label_Text": "Report Return Supplier Payment"
+ },
+ {
+  "label_Id": 31,
+  "label_Text": "Countries"
+ },
+ {
+  "label_Id": 32,
+  "label_Text": "Inventory Check"
+ },
+ {
+  "label_Id": 33,
+  "label_Text": "Report Sales "
+ },
+ {
+  "label_Id": 34,
+  "label_Text": "Report Purches"
+ },
+ {
+  "label_Id": 35,
+  "label_Text": "Report Return Sales"
+ },
+ {
+  "label_Id": 36,
+  "label_Text": "Report Retunr Purches"
+ },
+ {
+  "label_Id": 37,
+  "label_Text": "Report All Items Transaction"
+ },
+ {
+  "label_Id": 38,
+  "label_Text": "Report Inventory Check"
+ },
+ {
+  "label_Id": 39,
+  "label_Text": "Employees"
+ },
+ {
+  "label_Id": 40,
+  "label_Text": "Type Calac"
+ },
+ {
+  "label_Id": 41,
+  "label_Text": "Cost Centers"
+ },
+ {
+  "label_Id": 42,
+  "label_Text": "Requests "
+ },
+ {
+  "label_Id": 43,
+  "label_Text": "Invoice Types"
+ },
+ {
+  "label_Id": 45,
+  "label_Text": "Report Order"
+ },
+ {
+  "label_Id": 46,
+  "label_Text": "Report Recive Consign"
+ },
+ {
+  "label_Id": 47,
+  "label_Text": "Report Deliver Consign"
+ },
+ {
+  "label_Id": 48,
+  "label_Text": "Bank Out Come"
+ },
+ {
+  "label_Id": 50,
+  "label_Text": "Rule Export"
+ },
+ {
+  "label_Id": 51,
+  "label_Text": "Rule Recive"
+ },
+ {
+  "label_Id": 52,
+  "label_Text": "Report Addation and Subtracts of Emp"
+ },
+ {
+  "label_Id": 53,
+  "label_Text": "Report In And Out Money"
+ },
+ {
+  "label_Id": 54,
+  "label_Text": "Dectionery"
+ },
+ {
+  "label_Id": 55,
+  "label_Text": "Recive money"
+ },
+ {
+  "label_Id": 56,
+  "label_Text": "Deleiver Money"
+ },
+ {
+  "label_Id": 57,
+  "label_Text": "Addition Rules"
+ },
+ {
+  "label_Id": 58,
+  "label_Text": "Rule Subtract"
+ },
+ {
+  "label_Id": 59,
+  "label_Text": "Add Addition to Employee"
+ },
+ {
+  "label_Id": 60,
+  "label_Text": "Add Subtract"
+ },
+ {
+  "label_Id": 61,
+  "label_Text": "POS"
+ },
+ {
+  "label_Id": 63,
+  "label_Text": "Report POS"
+ },
+ {
+  "label_Id": 64,
+  "label_Text": "Report Return POS"
+ },
+ {
+  "label_Id": 65,
+  "label_Text": "Report All POS"
+ },
+ {
+  "label_Id": 66,
+  "label_Text": "Report In Money"
+ },
+ {
+  "label_Id": 67,
+  "label_Text": "Report Out  Money"
+ },
+ {
+  "label_Id": 68,
+  "label_Text": "Move Item To Store"
+ },
+ {
+  "label_Id": 69,
+  "label_Text": "Branches"
+ },
+ {
+  "label_Id": 70,
+  "label_Text": "Report Move Item To Store"
+ },
+ {
+  "label_Id": 71,
+  "label_Text": "Report Item With Quntity"
+ },
+ {
+  "label_Id": 73,
+  "label_Text": "frmRepo rtItems  Balance With Value"
+ },
+ {
+  "label_Id": 74,
+  "label_Text": "frmReportTransactionLog"
+ },
+ {
+  "label_Id": 75,
+  "label_Text": "POS Station"
+ },
+ {
+  "label_Id": 76,
+  "label_Text": "Report Station Of POS "
+ },
+ {
+  "label_Id": 77,
+  "label_Text": "Barcode Creation"
+ },
+ {
+  "label_Id": 78,
+  "label_Text": "frmReportPosTransaction"
+ },
+ {
+  "label_Id": 79,
+  "label_Text": "Currency"
+ },
+ {
+  "label_Id": 80,
+  "label_Text": "All In And Out Money in System"
+ },
+ {
+  "label_Id": 81,
+  "label_Text": "Report All Cutomers Balance"
+ },
+ {
+  "label_Id": 83,
+  "label_Text": "Report All Suppliers Balance"
+ },
+ {
+  "label_Id": 84,
+  "label_Text": "Report Follow Customers in Transaction"
+ },
+ {
+  "label_Id": 85,
+  "label_Text": "Report Follow Suppliers in Transaction"
+ },
+ {
+  "label_Id": 86,
+  "label_Text": "Report Profit and Lose"
+ },
+ {
+  "label_Id": 87,
+  "label_Text": "Tables"
+ },
+ {
+  "label_Id": 88,
+  "label_Text": "Addation and Recomend of Items in Resturant"
+ },
+ {
+  "label_Id": 89,
+  "label_Text": "Report Summery ItemsTRansaction"
+ },
+ {
+  "label_Id": 90,
+  "label_Text": "POS Resturant"
+ },
+ {
+  "label_Id": 91,
+  "label_Text": "Report POS Resturant"
+ },
+ {
+  "label_Id": 92,
+  "label_Text": "Report Return POS Resturant"
+ },
+ {
+  "label_Id": 93,
+  "label_Text": "Report Expiry Date of Items"
+ },
+ {
+  "label_Id": 94,
+  "label_Text": "Report All In And Out Day Money"
+ },
+ {
+  "label_Id": 95,
+  "label_Text": "Accounts Tree"
+ },
+ {
+  "label_Id": 96,
+  "label_Text": "Report Acount Of Customer"
+ },
+ {
+  "label_Id": 97,
+  "label_Text": "Report Account of Supplier"
+ },
+ {
+  "label_Id": 98,
+  "label_Text": "Simple Jurnal Voutcher"
+ },
+ {
+  "label_Id": 99,
+  "label_Text": "Report Simple Jurnal Voutcher"
+ },
+ {
+  "label_Id": 100,
+  "label_Text": "Report Payment Accounts"
+ },
+ {
+  "label_Id": 101,
+  "label_Text": "Complex Jurnal voutcher"
+ },
+ {
+  "label_Id": 102,
+  "label_Text": "Report Complex Jurnal voutcher"
+ },
+ {
+  "label_Id": 103,
+  "label_Text": "AC Begin Balance"
+ },
+ {
+  "label_Id": 104,
+  "label_Text": "Income Statment"
+ },
+ {
+  "label_Id": 105,
+  "label_Text": "Trial Balance"
+ },
+ {
+  "label_Id": 106,
+  "label_Text": "Balance Sheet"
+ },
+ {
+  "label_Id": 107,
+  "label_Text": "Report Accounts Transaction"
+ },
+ {
+  "label_Id": 108,
+  "label_Text": "Dayley Box"
+ },
+ {
+  "label_Id": 109,
+  "label_Text": "Report Money Transaction by Store"
+ },
+ {
+  "label_Id": 110,
+  "label_Text": "Report Profit Of Sales"
+ },
+ {
+  "label_Id": 111,
+  "label_Text": "Production"
+ },
+ {
+  "label_Id": 112,
+  "label_Text": "Report Production Of Items"
+ },
+ {
+  "label_Id": 113,
+  "label_Text": "Financial Year"
+ },
+ {
+  "label_Id": 114,
+  "label_Text": "Manage Expiry Date Of Items"
+ },
+ {
+  "label_Id": 115,
+  "label_Text": "Extract And Distribute"
+ },
+ {
+  "label_Id": 116,
+  "label_Text": "Report Extract And Distribute"
+ },
+ {
+  "label_Id": 117,
+  "label_Text": "Balance Voutcher"
+ },
+ {
+  "label_Id": 118,
+  "label_Text": "Report Balance Voutcher"
+ },
+ {
+  "label_Id": 119,
+  "label_Text": "Seeting Columns In Grid"
+ },
+ {
+  "label_Id": 120,
+  "label_Text": "Report of stagnant Items"
+ },
+ {
+  "label_Id": 121,
+  "label_Text": "Report Items Diffrent in Cost"
+ },
+ {
+  "label_Id": 122,
+  "label_Text": "Report History Login"
+ },
+ {
+  "label_Id": 123,
+  "label_Text": "Department"
+ },
+ {
+  "label_Id": 124,
+  "label_Text": "Grade"
+ },
+ {
+  "label_Id": 125,
+  "label_Text": "Nationalities"
+ },
+ {
+  "label_Id": 126,
+  "label_Text": "Religions"
+ },
+ {
+  "label_Id": 127,
+  "label_Text": "Social Status"
+ },
+ {
+  "label_Id": 128,
+  "label_Text": "Employee Status"
+ },
+ {
+  "label_Id": 129,
+  "label_Text": "Attendance Schedule"
+ },
+ {
+  "label_Id": 130,
+  "label_Text": "Job Positions"
+ },
+ {
+  "label_Id": 131,
+  "label_Text": "Offers Sale Prices"
+ },
+ {
+  "label_Id": 132,
+  "label_Text": "Table Reservation"
+ },
+ {
+  "label_Id": 133,
+  "label_Text": "Report Modify Users on Items"
+ },
+ {
+  "label_Id": 134,
+  "label_Text": "POS Return Managment"
+ },
+ {
+  "label_Id": 135,
+  "label_Text": "POS Resturant Return Managment"
+ },
+ {
+  "label_Id": 136,
+  "label_Text": "Report Customer Debits"
+ },
+ {
+  "label_Id": 137,
+  "label_Text": "Show Price"
+ },
+ {
+  "label_Id": 138,
+  "label_Text": "Report Endorsement VAT"
+ },
+ {
+  "label_Id": 139,
+  "label_Text": "Report Supplier Debits"
+ },
+ {
+  "label_Id": 140,
+  "label_Text": "Report Sales and Purchase Graph"
+ },
+ {
+  "label_Id": 141,
+  "label_Text": "Report Profit of Sales Graph"
+ },
+ {
+  "label_Id": 142,
+  "label_Text": "Report Voucher Release"
+ },
+ {
+  "label_Id": 143,
+  "label_Text": "Report History of Customer Point "
+ },
+ {
+  "label_Id": 144,
+  "label_Text": "Report All Custmer Transaction"
+ },
+ {
+  "label_Id": 145,
+  "label_Text": "Report Production Items Data"
+ },
+ {
+  "label_Id": 146,
+  "label_Text": "Report Customer Due Bill"
+ },
+ {
+  "label_Id": 147,
+  "label_Text": "Devices"
+ },
+ {
+  "label_Id": 148,
+  "label_Text": "Consign Out"
+ },
+ {
+  "label_Id": 149,
+  "label_Text": "Report All Suppliers Transactions"
+ },
+ {
+  "label_Id": 150,
+  "label_Text": "Consign In"
+ },
+ {
+  "label_Id": 151,
+  "label_Text": "Installment Plan"
+ },
+ {
+  "label_Id": 152,
+  "label_Text": "Configuration Settings"
+ },
+ {
+  "label_Id": 153,
+  "label_Text": "Report Installment Plan"
+ },
+ {
+  "label_Id": 154,
+  "label_Text": "Shipment"
+ },
+ {
+  "label_Id": 155,
+  "label_Text": "Report Shipment Log Status"
+ },
+ {
+  "label_Id": 156,
+  "label_Text": "Report Shipment Dealer"
+ },
+ {
+  "label_Id": 157,
+  "label_Text": "Report Employee Sales"
+ },
+ {
+  "label_Id": 158,
+  "label_Text": "Cars Type"
+ },
+ {
+  "label_Id": 159,
+  "label_Text": "Cars Colors"
+ },
+ {
+  "label_Id": 160,
+  "label_Text": "Create Voucher"
+ },
+ {
+  "label_Id": 161,
+  "label_Text": "Payment Type"
+ },
+ {
+  "label_Id": 162,
+  "label_Text": "POS Managment"
+ },
+ {
+  "label_Id": 163,
+  "label_Text": "POS Resturant Managment"
+ },
+ {
+  "label_Id": 164,
+  "label_Text": "Car Service"
+ },
+ {
+  "label_Id": 165,
+  "label_Text": "Car Registration"
+ },
+ {
+  "label_Id": 166,
+  "label_Text": "Application Delivery"
+ },
+ {
+  "label_Id": 167,
+  "label_Text": "Report Best and Least selling Items"
+ },
+ {
+  "label_Id": 168,
+  "label_Text": "Report Profit Of Contracting"
+ },
+ {
+  "label_Id": 169,
+  "label_Text": "Import Items"
+ },
+ {
+  "label_Id": 170,
+  "label_Text": "POS Resturant Reservation Managment"
+ },
+ {
+  "label_Id": 171,
+  "label_Text": "Report Item Diffrent In Vat Calculation"
+ },
+ {
+  "label_Id": 172,
+  "label_Text": "Printing Settings"
+ },
+ {
+  "label_Id": 174,
+  "label_Text": "Purchase Via POS"
+ },
+ {
+  "label_Id": 176,
+  "label_Text": "Mortgage Items"
+ },
+ {
+  "label_Id": 178,
+  "label_Text": "Link Accounts"
+ },
+ {
+  "label_Id": 180,
+  "label_Text": "Manage eInvoices"
+ },
+ {
+  "label_Id": 182,
+  "label_Text": "Notice Recive"
+ },
+ {
+  "label_Id": 183,
+  "label_Text": "Examination and inspection report"
+ },
+ {
+  "label_Id": 184,
+  "label_Text": "Received Note"
+ },
+ {
+  "label_Id": 1151,
+  "label_Text": "BackUp DataBase"
+ },
+ {
+  "label_Id": 1152,
+  "label_Text": "Report Treasury"
+ },
+ {
+  "label_Id": 1153,
+  "label_Text": "Report Supplier Account Transacions"
+ },
+ {
+  "label_Id": 1154,
+  "label_Text": "Customers and Suppliers"
+ },
+ {
+  "label_Id": 1155,
+  "label_Text": "Refresh"
+ },
+ {
+  "label_Id": 1156,
+  "label_Text": "Add POS"
+ },
+ {
+  "label_Id": 1157,
+  "label_Text": "Stores and Items"
+ },
+ {
+  "label_Id": 1158,
+  "label_Text": "Accounting"
+ },
+ {
+  "label_Id": 1159,
+  "label_Text": "Report Items"
+ },
+ {
+  "label_Id": 1160,
+  "label_Text": "Restore Backup"
+ },
+ {
+  "label_Id": 1161,
+  "label_Text": "Supplier"
+ },
+ {
+  "label_Id": 1162,
+  "label_Text": "Report Item Transaction"
+ },
+ {
+  "label_Id": 1163,
+  "label_Text": "Export Offline To Excel"
+ },
+ {
+  "label_Id": 1164,
+  "label_Text": "Resturant Managment"
+ },
+ {
+  "label_Id": 1165,
+  "label_Text": "Report POS and POS Resturant"
+ },
+ {
+  "label_Id": 1166,
+  "label_Text": "Reports"
+ },
+ {
+  "label_Id": 1167,
+  "label_Text": "Run script"
+ },
+ {
+  "label_Id": 1168,
+  "label_Text": "Setting Program"
+ },
+ {
+  "label_Id": 1169,
+  "label_Text": "Transaction"
+ },
+ {
+  "label_Id": 1170,
+  "label_Text": "HR"
+ },
+ {
+  "label_Id": 1171,
+  "label_Text": "Service Program"
+ },
+ {
+  "label_Id": 1172,
+  "label_Text": "Exit"
+ },
+ {
+  "label_Id": 1173,
+  "label_Text": "Report Balance Of all Customers"
+ },
+ {
+  "label_Id": 1174,
+  "label_Text": "Report Balance Of all Suppliers"
+ },
+ {
+  "label_Id": 1175,
+  "label_Text": "Report Customer Accounts Transaction"
+ },
+ {
+  "label_Id": 1176,
+  "label_Text": "Accounts Reports"
+ },
+ {
+  "label_Id": 1177,
+  "label_Text": "Format Styles"
+ },
+ {
+  "label_Id": 1178,
+  "label_Text": "Barcode"
+ },
+ {
+  "label_Id": 1180,
+  "label_Text": "Value"
+ },
+ {
+  "label_Id": 1181,
+  "label_Text": "Height"
+ },
+ {
+  "label_Id": 1182,
+  "label_Text": "Payment Type"
+ },
+ {
+  "label_Id": 1183,
+  "label_Text": "Item"
+ },
+ {
+  "label_Id": 1184,
+  "label_Text": "Branch"
+ },
+ {
+  "label_Id": 1185,
+  "label_Text": "Salary"
+ },
+ {
+  "label_Id": 1186,
+  "label_Text": "Job"
+ },
+ {
+  "label_Id": 1187,
+  "label_Text": "Value Of Point"
+ },
+ {
+  "label_Id": 1188,
+  "label_Text": "Discount Default Ration"
+ },
+ {
+  "label_Id": 1189,
+  "label_Text": "Sender Mail"
+ },
+ {
+  "label_Id": 1190,
+  "label_Text": "Recived Mail"
+ },
+ {
+  "label_Id": 1191,
+  "label_Text": "Is Default"
+ },
+ {
+  "label_Id": 1192,
+  "label_Text": "Station"
+ },
+ {
+  "label_Id": 1193,
+  "label_Text": "Wellcome Message"
+ },
+ {
+  "label_Id": 1194,
+  "label_Text": "Note"
+ },
+ {
+  "label_Id": 1195,
+  "label_Text": "Item Name"
+ },
+ {
+  "label_Id": 1196,
+  "label_Text": "To Account"
+ },
+ {
+  "label_Id": 1197,
+  "label_Text": "Begin Bal"
+ },
+ {
+  "label_Id": 1198,
+  "label_Text": "Item Code"
+ },
+ {
+  "label_Id": 1199,
+  "label_Text": "Limit Order"
+ },
+ {
+  "label_Id": 1200,
+  "label_Text": "Unit"
+ },
+ {
+  "label_Id": 1201,
+  "label_Text": "Rule"
+ },
+ {
+  "label_Id": 1202,
+  "label_Text": "Address"
+ },
+ {
+  "label_Id": 1203,
+  "label_Text": "Increment Ratio"
+ },
+ {
+  "label_Id": 1204,
+  "label_Text": "Serial"
+ },
+ {
+  "label_Id": 1205,
+  "label_Text": "Orde No"
+ },
+ {
+  "label_Id": 1206,
+  "label_Text": "Store"
+ },
+ {
+  "label_Id": 1207,
+  "label_Text": "Name"
+ },
+ {
+  "label_Id": 1208,
+  "label_Text": "Phone"
+ },
+ {
+  "label_Id": 1209,
+  "label_Text": "Detail"
+ },
+ {
+  "label_Id": 1210,
+  "label_Text": "ID"
+ },
+ {
+  "label_Id": 1211,
+  "label_Text": "E-Mail"
+ },
+ {
+  "label_Id": 1212,
+  "label_Text": "Notes"
+ },
+ {
+  "label_Id": 1213,
+  "label_Text": "Money"
+ },
+ {
+  "label_Id": 1214,
+  "label_Text": "Account"
+ },
+ {
+  "label_Id": 1215,
+  "label_Text": "Discount"
+ },
+ {
+  "label_Id": 1216,
+  "label_Text": "Customer"
+ },
+ {
+  "label_Id": 1217,
+  "label_Text": "Mobile"
+ },
+ {
+  "label_Id": 1218,
+  "label_Text": "Payment"
+ },
+ {
+  "label_Id": 1219,
+  "label_Text": "Date"
+ },
+ {
+  "label_Id": 1220,
+  "label_Text": "Supplier"
+ },
+ {
+  "label_Id": 1221,
+  "label_Text": "Company Name"
+ },
+ {
+  "label_Id": 1222,
+  "label_Text": "User Name"
+ },
+ {
+  "label_Id": 1223,
+  "label_Text": "Password"
+ },
+ {
+  "label_Id": 1224,
+  "label_Text": "City"
+ },
+ {
+  "label_Id": 1225,
+  "label_Text": "Cost Center"
+ },
+ {
+  "label_Id": 1226,
+  "label_Text": "Cash Pay"
+ },
+ {
+  "label_Id": 1227,
+  "label_Text": "Go To Item"
+ },
+ {
+  "label_Id": 1228,
+  "label_Text": "Arabic Name"
+ },
+ {
+  "label_Id": 1229,
+  "label_Text": "Eng Name"
+ },
+ {
+  "label_Id": 1230,
+  "label_Text": "Arab ShorCut"
+ },
+ {
+  "label_Id": 1231,
+  "label_Text": "Eng ShortCuut"
+ },
+ {
+  "label_Id": 1232,
+  "label_Text": "Expire Day"
+ },
+ {
+  "label_Id": 1233,
+  "label_Text": "Days Before Expiry Date"
+ },
+ {
+  "label_Id": 1234,
+  "label_Text": "Emp Responsable"
+ },
+ {
+  "label_Id": 1235,
+  "label_Text": "Invoice No."
+ },
+ {
+  "label_Id": 1236,
+  "label_Text": "Employee"
+ },
+ {
+  "label_Id": 1237,
+  "label_Text": "From Store"
+ },
+ {
+  "label_Id": 1238,
+  "label_Text": "To Store"
+ },
+ {
+  "label_Id": 1239,
+  "label_Text": "Period allow To Edit"
+ },
+ {
+  "label_Id": 1240,
+  "label_Text": "Num. Copy"
+ },
+ {
+  "label_Id": 1241,
+  "label_Text": "Mail"
+ },
+ {
+  "label_Id": 1242,
+  "label_Text": "Barcode"
+ },
+ {
+  "label_Id": 1243,
+  "label_Text": "Transaction"
+ },
+ {
+  "label_Id": 1244,
+  "label_Text": "Period Allow to Return"
+ },
+ {
+  "label_Id": 1245,
+  "label_Text": "Code"
+ },
+ {
+  "label_Id": 1246,
+  "label_Text": "Years"
+ },
+ {
+  "label_Id": 1247,
+  "label_Text": "Number"
+ },
+ {
+  "label_Id": 1248,
+  "label_Text": "Price"
+ },
+ {
+  "label_Id": 1249,
+  "label_Text": "Quantity"
+ },
+ {
+  "label_Id": 1250,
+  "label_Text": "Trans Cost"
+ },
+ {
+  "label_Id": 1251,
+  "label_Text": "Category"
+ },
+ {
+  "label_Id": 1252,
+  "label_Text": "Currency"
+ },
+ {
+  "label_Id": 1253,
+  "label_Text": "From Account"
+ },
+ {
+  "label_Id": 1254,
+  "label_Text": "Width"
+ },
+ {
+  "label_Id": 1255,
+  "label_Text": "Calc Type"
+ },
+ {
+  "label_Id": 1257,
+  "label_Text": "عجز من جرد المخزن"
+ },
+ {
+  "label_Id": 1258,
+  "label_Text": "نقاط البيع"
+ },
+ {
+  "label_Id": 1259,
+  "label_Text": "مرتجع فاتورة نقاط بيع"
+ },
+ {
+  "label_Id": 1260,
+  "label_Text": "صرف للتصنيع"
+ },
+ {
+  "label_Id": 1266,
+  "label_Text": "عملية تفكيك وإستخراج"
+ },
+ {
+  "label_Id": 1267,
+  "label_Text": "استلام من مخزن"
+ },
+ {
+  "label_Id": 1269,
+  "label_Text": "فاتورة مطعم"
+ },
+ {
+  "label_Id": 1270,
+  "label_Text": "مرتجع نقاط المطعم"
+ },
+ {
+  "label_Id": 1271,
+  "label_Text": "ذياده من جرد المخزن"
+ },
+ {
+  "label_Id": 1272,
+  "label_Text": "مقبوضات من عمليات المخازن"
+ },
+ {
+  "label_Id": 1273,
+  "label_Text": "مصروفات لعمليات المخازن"
+ },
+ {
+  "label_Id": 1274,
+  "label_Text": "مرتجع مقبوضات عميل"
+ },
+ {
+  "label_Id": 1275,
+  "label_Text": "القيود اليوميه البسيطه"
+ },
+ {
+  "label_Id": 1276,
+  "label_Text": "Balanced Voutcher"
+ },
+ {
+  "label_Id": 1277,
+  "label_Text": "سند صرف"
+ },
+ {
+  "label_Id": 1278,
+  "label_Text": "سند قبض"
+ },
+ {
+  "label_Id": 1279,
+  "label_Text": "مدفوعات مورد"
+ },
+ {
+  "label_Id": 1280,
+  "label_Text": "مقبوضات عميل"
+ },
+ {
+  "label_Id": 1281,
+  "label_Text": "مرتجع مدفوعات مورد"
+ },
+ {
+  "label_Id": 1282,
+  "label_Text": "تحويل الي حساب الاجل-عميل\/مورد"
+ },
+ {
+  "label_Id": 1283,
+  "label_Text": "رصيد أول المده"
+ },
+ {
+  "label_Id": 1284,
+  "label_Text": "قيد مركب"
+ },
+ {
+  "label_Id": 1285,
+  "label_Text": "يومية الصندوق"
+ },
+ {
+  "label_Id": 1286,
+  "label_Text": "Barcode"
+ },
+ {
+  "label_Id": 1287,
+  "label_Text": "Transfer Table"
+ },
+ {
+  "label_Id": 1288,
+  "label_Text": "Ration %"
+ },
+ {
+  "label_Id": 1289,
+  "label_Text": "Enter"
+ },
+ {
+  "label_Id": 1291,
+  "label_Text": "Note"
+ },
+ {
+  "label_Id": 1292,
+  "label_Text": "Quantity"
+ },
+ {
+  "label_Id": 1293,
+  "label_Text": "Price"
+ },
+ {
+  "label_Id": 1294,
+  "label_Text": "Reserved InVoice"
+ },
+ {
+  "label_Id": 1295,
+  "label_Text": "Items"
+ },
+ {
+  "label_Id": 1296,
+  "label_Text": "Employee"
+ },
+ {
+  "label_Id": 1298,
+  "label_Text": "Local"
+ },
+ {
+  "label_Id": 1299,
+  "label_Text": "Delevery"
+ },
+ {
+  "label_Id": 1300,
+  "label_Text": "Reserve"
+ },
+ {
+  "label_Id": 1301,
+  "label_Text": "Payment"
+ },
+ {
+  "label_Id": 1304,
+  "label_Text": "Table No."
+ },
+ {
+  "label_Id": 1305,
+  "label_Text": "Discount"
+ },
+ {
+  "label_Id": 1306,
+  "label_Text": "Customer"
+ },
+ {
+  "label_Id": 1307,
+  "label_Text": "Return"
+ },
+ {
+  "label_Id": 1309,
+  "label_Text": "Decimal Place"
+ },
+ {
+  "label_Id": 1310,
+  "label_Text": "Customer Did Not Pay Since"
+ },
+ {
+  "label_Id": 1311,
+  "label_Text": "Payment Day Since"
+ },
+ {
+  "label_Id": 1312,
+  "label_Text": "English Name"
+ },
+ {
+  "label_Id": 1313,
+  "label_Text": "Manage POS Resturant"
+ },
+ {
+  "label_Id": 1314,
+  "label_Text": "Customer Display"
+ },
+ {
+  "label_Id": 1315,
+  "label_Text": "Direct Print"
+ },
+ {
+  "label_Id": 1316,
+  "label_Text": "Balance"
+ },
+ {
+  "label_Id": 1317,
+  "label_Text": "User"
+ },
+ {
+  "label_Id": 1318,
+  "label_Text": "Currency Label"
+ },
+ {
+  "label_Id": 1319,
+  "label_Text": "Max Debit"
+ },
+ {
+  "label_Id": 1320,
+  "label_Text": "POS Managment"
+ },
+ {
+  "label_Id": 1321,
+  "label_Text": "Cashier"
+ },
+ {
+  "label_Id": 1322,
+  "label_Text": "Cancel Remember Me"
+ },
+ {
+  "label_Id": 1323,
+  "label_Text": "Change My Password"
+ },
+ {
+  "label_Id": 1324,
+  "label_Text": "Printer"
+ },
+ {
+  "label_Id": 1325,
+  "label_Text": "HR Affairs"
+ },
+ {
+  "label_Id": 1326,
+  "label_Text": "Time In"
+ },
+ {
+  "label_Id": 1327,
+  "label_Text": "Time Out"
+ },
+ {
+  "label_Id": 1328,
+  "label_Text": "Launch Start"
+ },
+ {
+  "label_Id": 1329,
+  "label_Text": "Launch End"
+ },
+ {
+  "label_Id": 1330,
+  "label_Text": "First Holidy"
+ },
+ {
+  "label_Id": 1331,
+  "label_Text": "Second Holidy"
+ },
+ {
+  "label_Id": 1332,
+  "label_Text": "Stagnan tPeriod"
+ },
+ {
+  "label_Id": 1333,
+  "label_Text": "Stagnant Period"
+ },
+ {
+  "label_Id": 1334,
+  "label_Text": "Title"
+ },
+ {
+  "label_Id": 1335,
+  "label_Text": "Calac Type"
+ },
+ {
+  "label_Id": 1336,
+  "label_Text": "Start Time"
+ },
+ {
+  "label_Id": 1337,
+  "label_Text": "End Time"
+ },
+ {
+  "label_Id": 1338,
+  "label_Text": "Valid Till"
+ },
+ {
+  "label_Id": 1339,
+  "label_Text": "Is Active"
+ },
+ {
+  "label_Id": 1340,
+  "label_Text": "Remarks"
+ },
+ {
+  "label_Id": 1341,
+  "label_Text": "From Time"
+ },
+ {
+  "label_Id": 1342,
+  "label_Text": "To Time"
+ },
+ {
+  "label_Id": 1343,
+  "label_Text": "Table"
+ },
+ {
+  "label_Id": 1344,
+  "label_Text": "Mobile Receiver"
+ },
+ {
+  "label_Id": 1345,
+  "label_Text": "Mobile Sender"
+ },
+ {
+  "label_Id": 1346,
+  "label_Text": "Sender Name"
+ },
+ {
+  "label_Id": 1347,
+  "label_Text": "Decimal Place Number"
+ },
+ {
+  "label_Id": 1348,
+  "label_Text": "Work OffLine"
+ },
+ {
+  "label_Id": 1389,
+  "label_Text": "Pint of Reserial Bill"
+ },
+ {
+  "label_Id": 1390,
+  "label_Text": "Report Type"
+ },
+ {
+  "label_Id": 1391,
+  "label_Text": "Transport Cost"
+ },
+ {
+  "label_Id": 1392,
+  "label_Text": "Calac Type"
+ },
+ {
+  "label_Id": 1393,
+  "label_Text": "Add Tax To Items By Category"
+ },
+ {
+  "label_Id": 1394,
+  "label_Text": "Tax  %"
+ },
+ {
+  "label_Id": 1395,
+  "label_Text": "Default Tax Percentage"
+ },
+ {
+  "label_Id": 1396,
+  "label_Text": "Tax"
+ },
+ {
+  "label_Id": 1397,
+  "label_Text": "From"
+ },
+ {
+  "label_Id": 1398,
+  "label_Text": "To"
+ },
+ {
+  "label_Id": 1399,
+  "label_Text": "Tax Number"
+ },
+ {
+  "label_Id": 1400,
+  "label_Text": "Taxe Percentage %"
+ },
+ {
+  "label_Id": 1401,
+  "label_Text": "Max Quantity"
+ },
+ {
+  "label_Id": 1402,
+  "label_Text": "Taxe Percentage"
+ },
+ {
+  "label_Id": 1403,
+  "label_Text": "Customers"
+ },
+ {
+  "label_Id": 1404,
+  "label_Text": "Discount %"
+ },
+ {
+  "label_Id": 1405,
+  "label_Text": "Statistic Reports"
+ },
+ {
+  "label_Id": 1406,
+  "label_Text": "Points Of Voucher"
+ },
+ {
+  "label_Id": 1407,
+  "label_Text": "Value of Vouchers"
+ },
+ {
+  "label_Id": 1408,
+  "label_Text": "Days of Expire"
+ },
+ {
+  "label_Id": 1409,
+  "label_Text": "Terms and Condations"
+ },
+ {
+  "label_Id": 1410,
+  "label_Text": "Invoice Type"
+ },
+ {
+  "label_Id": 1411,
+  "label_Text": "Day"
+ },
+ {
+  "label_Id": 1412,
+  "label_Text": "Report Customers"
+ },
+ {
+  "label_Id": 1413,
+  "label_Text": "Report Supplier"
+ },
+ {
+  "label_Id": 1414,
+  "label_Text": "IsCustmmerSupplier"
+ },
+ {
+  "label_Id": 1415,
+  "label_Text": "By Item code"
+ },
+ {
+  "label_Id": 1416,
+  "label_Text": "By Items"
+ },
+ {
+  "label_Id": 1417,
+  "label_Text": "All Items"
+ },
+ {
+  "label_Id": 1418,
+  "label_Text": "Balnce Not Zero"
+ },
+ {
+  "label_Id": 1419,
+  "label_Text": "By Item"
+ },
+ {
+  "label_Id": 1420,
+  "label_Text": "Show"
+ },
+ {
+  "label_Id": 1421,
+  "label_Text": "Bill Number"
+ },
+ {
+  "label_Id": 1422,
+  "label_Text": "By User"
+ },
+ {
+  "label_Id": 1423,
+  "label_Text": "Transaction Type"
+ },
+ {
+  "label_Id": 1424,
+  "label_Text": "Store From"
+ },
+ {
+  "label_Id": 1425,
+  "label_Text": "Store To"
+ },
+ {
+  "label_Id": 1426,
+  "label_Text": "Add"
+ },
+ {
+  "label_Id": 1427,
+  "label_Text": "Search"
+ },
+ {
+  "label_Id": 1428,
+  "label_Text": "Print"
+ },
+ {
+  "label_Id": 1429,
+  "label_Text": "By Category"
+ },
+ {
+  "label_Id": 1430,
+  "label_Text": "By Code"
+ },
+ {
+  "label_Id": 1431,
+  "label_Text": "By ItemName"
+ },
+ {
+  "label_Id": 1432,
+  "label_Text": "Show In POS"
+ },
+ {
+  "label_Id": 1433,
+  "label_Text": "Not Store Item"
+ },
+ {
+  "label_Id": 1434,
+  "label_Text": "Open Price"
+ },
+ {
+  "label_Id": 1435,
+  "label_Text": "Use Expiry Date"
+ },
+ {
+  "label_Id": 1436,
+  "label_Text": "Has Modifiers"
+ },
+ {
+  "label_Id": 1437,
+  "label_Text": "Gather Item"
+ },
+ {
+  "label_Id": 1438,
+  "label_Text": "Is Production Item"
+ },
+ {
+  "label_Id": 1439,
+  "label_Text": "by Store"
+ },
+ {
+  "label_Id": 1440,
+  "label_Text": "Units And  Price   of Item"
+ },
+ {
+  "label_Id": 1441,
+  "label_Text": "Active"
+ },
+ {
+  "label_Id": 1442,
+  "label_Text": "Qty"
+ },
+ {
+  "label_Id": 1443,
+  "label_Text": "By Customer"
+ },
+ {
+  "label_Id": 1444,
+  "label_Text": "By Supplier"
+ },
+ {
+  "label_Id": 1445,
+  "label_Text": "Data"
+ },
+ {
+  "label_Id": 1446,
+  "label_Text": "Add Items To"
+ },
+ {
+  "label_Id": 1447,
+  "label_Text": "ReturnBill"
+ },
+ {
+  "label_Id": 1448,
+  "label_Text": "ReserveInvoice"
+ },
+ {
+  "label_Id": 1449,
+  "label_Text": "SalesBill"
+ },
+ {
+  "label_Id": 1450,
+  "label_Text": "PurchaseBill"
+ },
+ {
+  "label_Id": 1451,
+  "label_Text": "CancelReservation"
+ },
+ {
+  "label_Id": 1452,
+  "label_Text": "Copy"
+ },
+ {
+  "label_Id": 1453,
+  "label_Text": "Print"
+ },
+ {
+  "label_Id": 1454,
+  "label_Text": "ItemName"
+ },
+ {
+  "label_Id": 1455,
+  "label_Text": "ExpiryDate"
+ },
+ {
+  "label_Id": 1456,
+  "label_Text": "NumbrtCopy"
+ },
+ {
+  "label_Id": 1457,
+  "label_Text": "Unit_Price_Currency"
+ },
+ {
+  "label_Id": 1458,
+  "label_Text": "Unit_Price"
+ },
+ {
+  "label_Id": 1459,
+  "label_Text": "View"
+ },
+ {
+  "label_Id": 1460,
+  "label_Text": "PriceSale"
+ },
+ {
+  "label_Id": 1461,
+  "label_Text": "Refrence"
+ },
+ {
+  "label_Id": 1462,
+  "label_Text": "Control"
+ },
+ {
+  "label_Id": 1463,
+  "label_Text": "Search"
+ },
+ {
+  "label_Id": 1464,
+  "label_Text": "Service"
+ },
+ {
+  "label_Id": 1465,
+  "label_Text": "Total"
+ },
+ {
+  "label_Id": 1466,
+  "label_Text": "Rest"
+ },
+ {
+  "label_Id": 1467,
+  "label_Text": "Net"
+ },
+ {
+  "label_Id": 1468,
+  "label_Text": "OK"
+ },
+ {
+  "label_Id": 1469,
+  "label_Text": "CloseWindow"
+ },
+ {
+  "label_Id": 1470,
+  "label_Text": "GridSize"
+ },
+ {
+  "label_Id": 1471,
+  "label_Text": "FromDate"
+ },
+ {
+  "label_Id": 1472,
+  "label_Text": "Cash"
+ },
+ {
+  "label_Id": 1473,
+  "label_Text": "Card"
+ },
+ {
+  "label_Id": 1474,
+  "label_Text": "Debit"
+ },
+ {
+  "label_Id": 1475,
+  "label_Text": "Credit"
+ },
+ {
+  "label_Id": 1476,
+  "label_Text": "ItemBalance"
+ },
+ {
+  "label_Id": 1477,
+  "label_Text": "ToDate"
+ },
+ {
+  "label_Id": 1478,
+  "label_Text": "ItemCode"
+ },
+ {
+  "label_Id": 1479,
+  "label_Text": "ItemBarcode"
+ },
+ {
+  "label_Id": 1480,
+  "label_Text": "TotalQuantity"
+ },
+ {
+  "label_Id": 1481,
+  "label_Text": "BillNumber"
+ },
+ {
+  "label_Id": 1482,
+  "label_Text": "CurrentPasswordText"
+ },
+ {
+  "label_Id": 1483,
+  "label_Text": "Save"
+ },
+ {
+  "label_Id": 1484,
+  "label_Text": "Voucher"
+ },
+ {
+  "label_Id": 1485,
+  "label_Text": "View"
+ },
+ {
+  "label_Id": 1486,
+  "label_Text": "Close"
+ },
+ {
+  "label_Id": 1487,
+  "label_Text": "Delete"
+ },
+ {
+  "label_Id": 1488,
+  "label_Text": "Update"
+ },
+ {
+  "label_Id": 1489,
+  "label_Text": "New"
+ },
+ {
+  "label_Id": 1490,
+  "label_Text": "Search"
+ },
+ {
+  "label_Id": 1491,
+  "label_Text": "Previous Data"
+ },
+ {
+  "label_Id": 1492,
+  "label_Text": "by Invoice Number"
+ },
+ {
+  "label_Id": 1493,
+  "label_Text": "Default Notes"
+ },
+ {
+  "label_Id": 1494,
+  "label_Text": "Copy"
+ },
+ {
+  "label_Id": 1495,
+  "label_Text": "Calc"
+ },
+ {
+  "label_Id": 1496,
+  "label_Text": "Vat Percentage"
+ },
+ {
+  "label_Id": 1497,
+  "label_Text": "Price Requierd"
+ },
+ {
+  "label_Id": 1498,
+  "label_Text": "Price Before Vate"
+ },
+ {
+  "label_Id": 1499,
+  "label_Text": "Price Before VAT"
+ },
+ {
+  "label_Id": 1500,
+  "label_Text": "Ok"
+ },
+ {
+  "label_Id": 1501,
+  "label_Text": "Save && Pay"
+ },
+ {
+  "label_Id": 1502,
+  "label_Text": "#NAME?"
+ },
+ {
+  "label_Id": 1503,
+  "label_Text": "Qunaity"
+ },
+ {
+  "label_Id": 1504,
+  "label_Text": "Print Last Bill"
+ },
+ {
+  "label_Id": 1505,
+  "label_Text": "Search on Bill"
+ },
+ {
+  "label_Id": 1506,
+  "label_Text": "MoreBarcode"
+ },
+ {
+  "label_Id": 1507,
+  "label_Text": "PriceCost"
+ },
+ {
+  "label_Id": 1508,
+  "label_Text": "MinimumPrice"
+ },
+ {
+  "label_Id": 1509,
+  "label_Text": "Close Day"
+ },
+ {
+  "label_Id": 1510,
+  "label_Text": "Sales Report"
+ },
+ {
+  "label_Id": 1511,
+  "label_Text": "By Ratio"
+ },
+ {
+  "label_Id": 1512,
+  "label_Text": "Order Type"
+ },
+ {
+  "label_Id": 1513,
+  "label_Text": "Show Report Pos"
+ },
+ {
+  "label_Id": 1514,
+  "label_Text": "Emp Responsable Inventory"
+ },
+ {
+  "label_Id": 1515,
+  "label_Text": "Search For Item "
+ },
+ {
+  "label_Id": 1516,
+  "label_Text": "By ItemUnit"
+ },
+ {
+  "label_Id": 1517,
+  "label_Text": "Print Before Check"
+ },
+ {
+  "label_Id": 1518,
+  "label_Text": "Modifiers"
+ },
+ {
+  "label_Id": 1519,
+  "label_Text": "Items"
+ },
+ {
+  "label_Id": 1520,
+  "label_Text": "Tax_Value"
+ },
+ {
+  "label_Id": 1521,
+  "label_Text": "Next"
+ },
+ {
+  "label_Id": 1522,
+  "label_Text": "Out"
+ },
+ {
+  "label_Id": 1523,
+  "label_Text": "Show Hanging Bill"
+ },
+ {
+  "label_Id": 1524,
+  "label_Text": "Hang Bill"
+ },
+ {
+  "label_Id": 1525,
+  "label_Text": "Paid_Amount"
+ },
+ {
+  "label_Id": 1526,
+  "label_Text": "Paid_Bill_Number"
+ },
+ {
+  "label_Id": 1527,
+  "label_Text": "Bill Due"
+ },
+ {
+  "label_Id": 1528,
+  "label_Text": "DueDate"
+ },
+ {
+  "label_Id": 1529,
+  "label_Text": "Alert"
+ },
+ {
+  "label_Id": 1530,
+  "label_Text": "Count"
+ },
+ {
+  "label_Id": 1531,
+  "label_Text": "SelectAccount"
+ },
+ {
+  "label_Id": 1532,
+  "label_Text": "CustomerOrSupplier"
+ },
+ {
+  "label_Id": 1533,
+  "label_Text": "Receipt_Out"
+ },
+ {
+  "label_Id": 1534,
+  "label_Text": "Receipt_In"
+ },
+ {
+  "label_Id": 1535,
+  "label_Text": "Subject_Maill_Send_Of_Sales"
+ },
+ {
+  "label_Id": 1536,
+  "label_Text": "Mail_Body_Of_Send_Sales_Report"
+ },
+ {
+  "label_Id": 1537,
+  "label_Text": "Main Data"
+ },
+ {
+  "label_Id": 1538,
+  "label_Text": "Category Seeting"
+ },
+ {
+  "label_Id": 1539,
+  "label_Text": "Is Parent"
+ },
+ {
+  "label_Id": 1540,
+  "label_Text": "Name Arabic"
+ },
+ {
+  "label_Id": 1541,
+  "label_Text": "Name English"
+ },
+ {
+  "label_Id": 1542,
+  "label_Text": "Font"
+ },
+ {
+  "label_Id": 1543,
+  "label_Text": "Color"
+ },
+ {
+  "label_Id": 1544,
+  "label_Text": "Delete_Instraction"
+ },
+ {
+  "label_Id": 1545,
+  "label_Text": "Update_Instraction"
+ },
+ {
+  "label_Id": 1546,
+  "label_Text": "Select Transferable Table"
+ },
+ {
+  "label_Id": 1547,
+  "label_Text": "Select Items To Transfer"
+ },
+ {
+  "label_Id": 1548,
+  "label_Text": "Select The Second Table"
+ },
+ {
+  "label_Id": 1549,
+  "label_Text": "Items Transfered Successfuly"
+ },
+ {
+  "label_Id": 1550,
+  "label_Text": "No Items Exist on Table"
+ },
+ {
+  "label_Id": 1551,
+  "label_Text": "Default Discount Ration"
+ },
+ {
+  "label_Id": 1552,
+  "label_Text": "Deafult Service"
+ },
+ {
+  "label_Id": 1553,
+  "label_Text": "Ratio"
+ },
+ {
+  "label_Id": 1554,
+  "label_Text": "Enable Add Service"
+ },
+ {
+  "label_Id": 1555,
+  "label_Text": "User Form Permmiosn"
+ },
+ {
+  "label_Id": 1556,
+  "label_Text": "User Settings"
+ },
+ {
+  "label_Id": 1557,
+  "label_Text": "Store Permissions"
+ },
+ {
+  "label_Id": 1558,
+  "label_Text": "Transaction Settings"
+ },
+ {
+  "label_Id": 1559,
+  "label_Text": "Branch Permissions"
+ },
+ {
+  "label_Id": 1560,
+  "label_Text": "Pos Settings"
+ },
+ {
+  "label_Id": 1561,
+  "label_Text": "English"
+ },
+ {
+  "label_Id": 1562,
+  "label_Text": "Arabic"
+ },
+ {
+  "label_Id": 1563,
+  "label_Text": "Use Item Image As BackGround"
+ },
+ {
+  "label_Id": 1564,
+  "label_Text": "Show Refrence"
+ },
+ {
+  "label_Id": 1565,
+  "label_Text": "Show Price"
+ },
+ {
+  "label_Id": 1566,
+  "label_Text": "Show Sales Report"
+ },
+ {
+  "label_Id": 1567,
+  "label_Text": "Show Modifiers of Items"
+ },
+ {
+  "label_Id": 1568,
+  "label_Text": "Show Item Gathring"
+ },
+ {
+  "label_Id": 1569,
+  "label_Text": "Show Alert Window"
+ },
+ {
+  "label_Id": 1570,
+  "label_Text": "Request Due Date on Payment Delay"
+ },
+ {
+  "label_Id": 1571,
+  "label_Text": "Register Transaction In Log"
+ },
+ {
+  "label_Id": 1572,
+  "label_Text": "Print Previous Bill"
+ },
+ {
+  "label_Id": 1573,
+  "label_Text": "Register Sales and Purchase in Payment"
+ },
+ {
+  "label_Id": 1574,
+  "label_Text": "Print Reserved Bill on Kitchen only"
+ },
+ {
+  "label_Id": 1575,
+  "label_Text": "Use A4 Invoice Print"
+ },
+ {
+  "label_Id": 1576,
+  "label_Text": "Alert Days Before"
+ },
+ {
+  "label_Id": 1577,
+  "label_Text": "Don't Use Other Printers"
+ },
+ {
+  "label_Id": 1578,
+  "label_Text": "Language"
+ },
+ {
+  "label_Id": 1579,
+  "label_Text": "Show TransPort Cost"
+ },
+ {
+  "label_Id": 1580,
+  "label_Text": "Show Picture In items"
+ },
+ {
+  "label_Id": 1581,
+  "label_Text": "kitchen only"
+ },
+ {
+  "label_Id": 1582,
+  "label_Text": "Default Discount"
+ },
+ {
+  "label_Id": 1583,
+  "label_Text": "Enable Close Day"
+ },
+ {
+  "label_Id": 1584,
+  "label_Text": "Add Repeted Item In Bill In New Line"
+ },
+ {
+  "label_Id": 1585,
+  "label_Text": "Alert With Item Expiry Date"
+ },
+ {
+  "label_Id": 1586,
+  "label_Text": "Allow New"
+ },
+ {
+  "label_Id": 1587,
+  "label_Text": "Show Confirm"
+ },
+ {
+  "label_Id": 1588,
+  "label_Text": "Allow Delete Item From Bill"
+ },
+ {
+  "label_Id": 1589,
+  "label_Text": "Allow Discount"
+ },
+ {
+  "label_Id": 1590,
+  "label_Text": "AllowTo Set Sales Item Less Than Cost"
+ },
+ {
+  "label_Id": 1591,
+  "label_Text": "Allow Multiple Barcode"
+ },
+ {
+  "label_Id": 1592,
+  "label_Text": "Allow Repeate Item Unit Factor"
+ },
+ {
+  "label_Id": 1593,
+  "label_Text": "Allow Return "
+ },
+ {
+  "label_Id": 1594,
+  "label_Text": "Allow To Sale Less Than Cost"
+ },
+ {
+  "label_Id": 1595,
+  "label_Text": "Allow Return without Bill"
+ },
+ {
+  "label_Id": 1596,
+  "label_Text": "Allow Shange Price"
+ },
+ {
+  "label_Id": 1597,
+  "label_Text": "Direct Print After Reserve Bill"
+ },
+ {
+  "label_Id": 1598,
+  "label_Text": "Distribute Discount of Bill on Items"
+ },
+ {
+  "label_Id": 1599,
+  "label_Text": "Enable Add Transport Cost"
+ },
+ {
+  "label_Id": 1600,
+  "label_Text": "Enable Change CalcT ype"
+ },
+ {
+  "label_Id": 1601,
+  "label_Text": "Enable Manual Code In Bill"
+ },
+ {
+  "label_Id": 1602,
+  "label_Text": "Modefiy Reserved Bill"
+ },
+ {
+  "label_Id": 1603,
+  "label_Text": "Check Max Debit of Customer"
+ },
+ {
+  "label_Id": 1604,
+  "label_Text": "Prevent Repeat Code on Items , Customer , Bill ..."
+ },
+ {
+  "label_Id": 1605,
+  "label_Text": "Prevent Store Out Item Balance Less Zero"
+ },
+ {
+  "label_Id": 1606,
+  "label_Text": "Print Barcode of item In Purches Invoice After Save It"
+ },
+ {
+  "label_Id": 1607,
+  "label_Text": "Print Every Related items by Group on Separate bill"
+ },
+ {
+  "label_Id": 1608,
+  "label_Text": "Print Item Depend of Printer of its' Category"
+ },
+ {
+  "label_Id": 1609,
+  "label_Text": "Print Prescription of item after save bill of sales"
+ },
+ {
+  "label_Id": 1610,
+  "label_Text": "Enable Button Add"
+ },
+ {
+  "label_Id": 1611,
+  "label_Text": "Show Cost Center"
+ },
+ {
+  "label_Id": 1612,
+  "label_Text": "Show Customers Related To User Only"
+ },
+ {
+  "label_Id": 1613,
+  "label_Text": "Show Hint of Item Cost "
+ },
+ {
+  "label_Id": 1614,
+  "label_Text": "Show Item On Second Screen Customer Display"
+ },
+ {
+  "label_Id": 1615,
+  "label_Text": "Cancel Reservation"
+ },
+ {
+  "label_Id": 1616,
+  "label_Text": "Currency"
+ },
+ {
+  "label_Id": 1617,
+  "label_Text": "Local"
+ },
+ {
+  "label_Id": 1618,
+  "label_Text": "Delivery"
+ },
+ {
+  "label_Id": 1619,
+  "label_Text": "Out"
+ },
+ {
+  "label_Id": 1620,
+  "label_Text": "Apply On"
+ },
+ {
+  "label_Id": 1621,
+  "label_Text": "Unit Price Zero"
+ },
+ {
+  "label_Id": 1622,
+  "label_Text": "Edit"
+ },
+ {
+  "label_Id": 1623,
+  "label_Text": "Save_Update"
+ },
+ {
+  "label_Id": 1624,
+  "label_Text": "Financial Year"
+ },
+ {
+  "label_Id": 1625,
+  "label_Text": "Start"
+ },
+ {
+  "label_Id": 1626,
+  "label_Text": "End"
+ },
+ {
+  "label_Id": 1627,
+  "label_Text": "Default Form"
+ },
+ {
+  "label_Id": 1628,
+  "label_Text": "Is Admin"
+ },
+ {
+  "label_Id": 1629,
+  "label_Text": "IsDefaults"
+ },
+ {
+  "label_Id": 1630,
+  "label_Text": "BirthDate"
+ },
+ {
+  "label_Id": 1631,
+  "label_Text": "Copy Item To Store"
+ },
+ {
+  "label_Id": 1632,
+  "label_Text": "Profit_Total"
+ },
+ {
+  "label_Id": 1633,
+  "label_Text": "Total_Cost"
+ },
+ {
+  "label_Id": 1634,
+  "label_Text": "Total_Bill"
+ },
+ {
+  "label_Id": 1635,
+  "label_Text": "Net Bill"
+ },
+ {
+  "label_Id": 1636,
+  "label_Text": "Show Cost and Profit of Bill"
+ },
+ {
+  "label_Id": 1637,
+  "label_Text": "Delivery "
+ },
+ {
+  "label_Id": 1638,
+  "label_Text": "Delivery Orders"
+ },
+ {
+  "label_Id": 1639,
+  "label_Text": "Local Orders"
+ },
+ {
+  "label_Id": 1640,
+  "label_Text": "Order Status"
+ },
+ {
+  "label_Id": 1641,
+  "label_Text": "Order Status"
+ },
+ {
+  "label_Id": 1642,
+  "label_Text": "Key Board "
+ },
+ {
+  "label_Id": 1643,
+  "label_Text": "Print Purchase Order"
+ },
+ {
+  "label_Id": 1644,
+  "label_Text": "Select"
+ },
+ {
+  "label_Id": 1645,
+  "label_Text": "Quantity_Requierd"
+ },
+ {
+  "label_Id": 1646,
+  "label_Text": "Purchase Order from Inventory"
+ },
+ {
+  "label_Id": 1647,
+  "label_Text": "Select Items For Order Purchase"
+ },
+ {
+  "label_Id": 1648,
+  "label_Text": "Search For Item"
+ },
+ {
+  "label_Id": 1649,
+  "label_Text": "Cancel Reason"
+ },
+ {
+  "label_Id": 1650,
+  "label_Text": "Search or Add Customer"
+ },
+ {
+  "label_Id": 1651,
+  "label_Text": "Change Hieht Of Group Section"
+ },
+ {
+  "label_Id": 1661,
+  "label_Text": "Show \/ Hide Menu"
+ },
+ {
+  "label_Id": 1662,
+  "label_Text": "Change Language"
+ },
+ {
+  "label_Id": 1663,
+  "label_Text": "Setting Columns"
+ },
+ {
+  "label_Id": 1664,
+  "label_Text": "Delete Reason"
+ },
+ {
+  "label_Id": 1665,
+  "label_Text": "Printing Settings"
+ },
+ {
+  "label_Id": 1666,
+  "label_Text": "Apply On all Users"
+ },
+ {
+  "label_Id": 1667,
+  "label_Text": "Printing Settings"
+ },
+ {
+  "label_Id": 1668,
+  "label_Text": "Stage 1"
+ },
+ {
+  "label_Id": 1669,
+  "label_Text": "Stage 2"
+ },
+ {
+  "label_Id": 1670,
+  "label_Text": "Stage"
+ },
+ {
+  "label_Id": 1671,
+  "label_Text": "Enable Print Sales Report And Print Close Day"
+ },
+ {
+  "label_Id": 1672,
+  "label_Text": "Add New Customer With Name Only"
+ },
+ {
+  "label_Id": 1673,
+  "label_Text": "Add New Cutomer With More Information"
+ },
+ {
+  "label_Id": 1674,
+  "label_Text": "Is Company Authorized For Tobacco"
+ },
+ {
+  "label_Id": 1675,
+  "label_Text": "Print Prepairng"
+ },
+ {
+  "label_Id": 1767,
+  "label_Text": "btnViewHistory"
+ },
+ {
+  "label_Id": 1768,
+  "label_Text": "Total Quantity"
+ },
+ {
+  "label_Id": 1769,
+  "label_Text": "Item Option"
+ },
+ {
+  "label_Id": 1770,
+  "label_Text": "Report Sales"
+ },
+ {
+  "label_Id": 1771,
+  "label_Text": "Item Modifiers"
+ },
+ {
+  "label_Id": 1772,
+  "label_Text": "Gatharing Items"
+ },
+ {
+  "label_Id": 1773,
+  "label_Text": "Image Item"
+ },
+ {
+  "label_Id": 1774,
+  "label_Text": "Show Serial"
+ },
+ {
+  "label_Id": 1775,
+  "label_Text": "Ask For Optical Glass Messure"
+ },
+ {
+  "label_Id": 1776,
+  "label_Text": "Item Serial"
+ },
+ {
+  "label_Id": 1777,
+  "label_Text": "File Not Exist"
+ },
+ {
+  "label_Id": 1778,
+  "label_Text": "File Name"
+ },
+ {
+  "label_Id": 1779,
+  "label_Text": "File Description"
+ },
+ {
+  "label_Id": 1780,
+  "label_Text": "Upload Files"
+ },
+ {
+  "label_Id": 1781,
+  "label_Text": "Cancel"
+ },
+ {
+  "label_Id": 1782,
+  "label_Text": "Cancel"
+ },
+ {
+  "label_Id": 1783,
+  "label_Text": "From Box Account To Account"
+ },
+ {
+  "label_Id": 1784,
+  "label_Text": "To Box Account"
+ },
+ {
+  "label_Id": 1785,
+  "label_Text": "Optical Information"
+ },
+ {
+  "label_Id": 1786,
+  "label_Text": "Left Mesure"
+ },
+ {
+  "label_Id": 1787,
+  "label_Text": "Right Mesure"
+ },
+ {
+  "label_Id": 1789,
+  "label_Text": "Date Deliver"
+ },
+ {
+  "label_Id": 1790,
+  "label_Text": "Doctor"
+ },
+ {
+  "label_Id": 1791,
+  "label_Text": "Print Contract"
+ },
+ {
+  "label_Id": 1792,
+  "label_Text": "Print Contract"
+ },
+ {
+  "label_Id": 1793,
+  "label_Text": "Logout"
+ },
+ {
+  "label_Id": 1794,
+  "label_Text": "Show Categories"
+ },
+ {
+  "label_Id": 1795,
+  "label_Text": "Hide Categories"
+ },
+ {
+  "label_Id": 1796,
+  "label_Text": "Add New Item"
+ },
+ {
+  "label_Id": 1797,
+  "label_Text": "Number In Smallest Unit"
+ },
+ {
+  "label_Id": 1798,
+  "label_Text": "All Categories"
+ },
+ {
+  "label_Id": 1799,
+  "label_Text": "None"
+ },
+ {
+  "label_Id": 1800,
+  "label_Text": "Are you sure to delete unit?"
+ },
+ {
+  "label_Id": 1801,
+  "label_Text": "Number of Bill"
+ },
+ {
+  "label_Id": 1802,
+  "label_Text": "Number Return Sales Bill"
+ },
+ {
+  "label_Id": 1803,
+  "label_Text": "Net  Return Sales Bill"
+ },
+ {
+  "label_Id": 1804,
+  "label_Text": "Net Sales"
+ },
+ {
+  "label_Id": 1805,
+  "label_Text": "Acctual Money"
+ },
+ {
+  "label_Id": 1806,
+  "label_Text": "Delay"
+ },
+ {
+  "label_Id": 1807,
+  "label_Text": "Net Other"
+ },
+ {
+  "label_Id": 1808,
+  "label_Text": "Tobacco Tax"
+ },
+ {
+  "label_Id": 1809,
+  "label_Text": "Login"
+ },
+ {
+  "label_Id": 1810,
+  "label_Text": "Register"
+ },
+ {
+  "label_Id": 1811,
+  "label_Text": "Open Day"
+ },
+ {
+  "label_Id": 1812,
+  "label_Text": "Hang Bill Exist"
+ },
+ {
+  "label_Id": 1813,
+  "label_Text": "Is Item Vanish Consign"
+ },
+ {
+  "label_Id": 1814,
+  "label_Text": "Setup Printers"
+ },
+ {
+  "label_Id": 1815,
+  "label_Text": "Creation Date"
+ },
+ {
+  "label_Id": 1816,
+  "label_Text": "Value In"
+ },
+ {
+  "label_Id": 1817,
+  "label_Text": "Value Out"
+ },
+ {
+  "label_Id": 1818,
+  "label_Text": "Previous Balance"
+ },
+ {
+  "label_Id": 1819,
+  "label_Text": "Cridet"
+ },
+ {
+  "label_Id": 1820,
+  "label_Text": "Trans Type"
+ },
+ {
+  "label_Id": 1821,
+  "label_Text": "Trans Num"
+ },
+ {
+  "label_Id": 1822,
+  "label_Text": "Tran Num"
+ },
+ {
+  "label_Id": 1823,
+  "label_Text": "Last Payment"
+ },
+ {
+  "label_Id": 1824,
+  "label_Text": "Total Value In"
+ },
+ {
+  "label_Id": 1825,
+  "label_Text": "Last Discount\/DSate"
+ },
+ {
+  "label_Id": 1826,
+  "label_Text": "Last Invoice\/DAte"
+ },
+ {
+  "label_Id": 1827,
+  "label_Text": "Total Sales"
+ },
+ {
+  "label_Id": 1828,
+  "label_Text": "Customer Code"
+ },
+ {
+  "label_Id": 1829,
+  "label_Text": "Supplier Code"
+ },
+ {
+  "label_Id": 1830,
+  "label_Text": "Total Begin Balance"
+ },
+ {
+  "label_Id": 1831,
+  "label_Text": "Total End Balance"
+ },
+ {
+  "label_Id": 1832,
+  "label_Text": "Total Purchase"
+ },
+ {
+  "label_Id": 1833,
+  "label_Text": "Last Invoice Date"
+ },
+ {
+  "label_Id": 1834,
+  "label_Text": "Last Invoice Code"
+ },
+ {
+  "label_Id": 1835,
+  "label_Text": "Last Invoice Value"
+ },
+ {
+  "label_Id": 1836,
+  "label_Text": "Date Open Account"
+ },
+ {
+  "label_Id": 1837,
+  "label_Text": "Date Bill"
+ },
+ {
+  "label_Id": 1838,
+  "label_Text": "Close Day Date"
+ },
+ {
+  "label_Id": 1839,
+  "label_Text": "Close Day"
+ },
+ {
+  "label_Id": 1840,
+  "label_Text": "Group"
+ },
+ {
+  "label_Id": 1841,
+  "label_Text": "Purchase"
+ },
+ {
+  "label_Id": 1842,
+  "label_Text": "Return Purchase"
+ },
+ {
+  "label_Id": 1843,
+  "label_Text": "Sales"
+ },
+ {
+  "label_Id": 1844,
+  "label_Text": "Return Sales"
+ },
+ {
+  "label_Id": 1845,
+  "label_Text": "Profit Sales"
+ },
+ {
+  "label_Id": 1846,
+  "label_Text": "Transport Cost"
+ },
+ {
+  "label_Id": 1847,
+  "label_Text": "Other"
+ },
+ {
+  "label_Id": 1848,
+  "label_Text": "Customer\/Supplier"
+ },
+ {
+  "label_Id": 1849,
+  "label_Text": "VAT"
+ },
+ {
+  "label_Id": 1850,
+  "label_Text": "Total Tobaco Value"
+ },
+ {
+  "label_Id": 1851,
+  "label_Text": "Copy User Setting"
+ },
+ {
+  "label_Id": 1852,
+  "label_Text": "Is Copy User Permmissons"
+ },
+ {
+  "label_Id": 1853,
+  "label_Text": "Is Copy User Settings"
+ },
+ {
+  "label_Id": 1854,
+  "label_Text": "Is Copy User POS Settings"
+ },
+ {
+  "label_Id": 1855,
+  "label_Text": "Operation Done Success"
+ },
+ {
+  "label_Id": 1856,
+  "label_Text": "Are You Sure You Want Delete "
+ },
+ {
+  "label_Id": 1857,
+  "label_Text": "Wrong Password"
+ },
+ {
+  "label_Id": 1858,
+  "label_Text": "Invoice Not Found For Return"
+ },
+ {
+  "label_Id": 1859,
+  "label_Text": "Password Changed Successfuly"
+ },
+ {
+  "label_Id": 1860,
+  "label_Text": "Table code Not Exist"
+ },
+ {
+  "label_Id": 1861,
+  "label_Text": "Net Bill Less Tham Cost"
+ },
+ {
+  "label_Id": 1862,
+  "label_Text": "Smallest Unit for item is requierd"
+ },
+ {
+  "label_Id": 1863,
+  "label_Text": "Is Unis Separate In Balance"
+ },
+ {
+  "label_Id": 1864,
+  "label_Text": "Photo"
+ },
+ {
+  "label_Id": 1865,
+  "label_Text": "Photo 1"
+ },
+ {
+  "label_Id": 1866,
+  "label_Text": "Photo"
+ },
+ {
+  "label_Id": 1867,
+  "label_Text": "Add Gather Items"
+ },
+ {
+  "label_Id": 1868,
+  "label_Text": "By Serial"
+ },
+ {
+  "label_Id": 1869,
+  "label_Text": "authorized person to approve"
+ },
+ {
+  "label_Id": 1870,
+  "label_Text": "Warehouse Section Head"
+ },
+ {
+  "label_Id": 1871,
+  "label_Text": "Warehouse Supervisor"
+ },
+ {
+  "label_Id": 1872,
+  "label_Text": "Department Supervisor"
+ },
+ {
+  "label_Id": 1873,
+  "label_Text": "Department Officer \/ Head"
+ },
+ {
+  "label_Id": 1874,
+  "label_Text": "Please Add Items For Transaction"
+ },
+ {
+  "label_Id": 1875,
+  "label_Text": "Not Allow To Delete System Item"
+ },
+ {
+  "label_Id": 1876,
+  "label_Text": "Add Items Offer"
+ },
+ {
+  "label_Id": 1877,
+  "label_Text": "Orignal Price"
+ },
+ {
+  "label_Id": 1878,
+  "label_Text": "Offer Price"
+ },
+ {
+  "label_Id": 1879,
+  "label_Text": "Start Date"
+ },
+ {
+  "label_Id": 1880,
+  "label_Text": "End Date"
+ },
+ {
+  "label_Id": 1881,
+  "label_Text": "Offer Price Is Requierd"
+ },
+ {
+  "label_Id": 1882,
+  "label_Text": "Is Consign"
+ },
+ {
+  "label_Id": 1883,
+  "label_Text": "Bill Is Totaly Returned Or Not Exist"
+ },
+ {
+  "label_Id": 1884,
+  "label_Text": "No Items Selected For Return"
+ },
+ {
+  "label_Id": 1885,
+  "label_Text": "Please enter arabic name"
+ },
+ {
+  "label_Id": 1886,
+  "label_Text": "Please enter modifier name first"
+ },
+ {
+  "label_Id": 1887,
+  "label_Text": "Please Enter Name"
+ },
+ {
+  "label_Id": 1889,
+  "label_Text": "No Changes"
+ },
+ {
+  "label_Id": 1890,
+  "label_Text": "Please enter username"
+ },
+ {
+  "label_Id": 1891,
+  "label_Text": "Please enter password"
+ },
+ {
+  "label_Id": 1892,
+  "label_Text": "Please Enter Actual Amount in Cash Drawer"
+ },
+ {
+  "label_Id": 1893,
+  "label_Text": "You don't have permission for this action"
+ },
+ {
+  "label_Id": 1894,
+  "label_Text": "Please select table first"
+ },
+ {
+  "label_Id": 1895,
+  "label_Text": "Please define order type first"
+ },
+ {
+  "label_Id": 1896,
+  "label_Text": "Are you sure to close the app?"
+ },
+ {
+  "label_Id": 1897,
+  "label_Text": "Please enter invoice number"
+ },
+ {
+  "label_Id": 1898,
+  "label_Text": "Data not available"
+ },
+ {
+  "label_Id": 1899,
+  "label_Text": "Operation done successfully"
+ },
+ {
+  "label_Id": 1900,
+  "label_Text": "Please enter service fees"
+ },
+ {
+  "label_Id": 1901,
+  "label_Text": "Discount already added on items"
+ },
+ {
+  "label_Id": 1902,
+  "label_Text": "Please add items first"
+ },
+ {
+  "label_Id": 1903,
+  "label_Text": "Info"
+ },
+ {
+  "label_Id": 1904,
+  "label_Text": "Please enter"
+ },
+ {
+  "label_Id": 1905,
+  "label_Text": "Application will restart to change language"
+ },
+ {
+  "label_Id": 1906,
+  "label_Text": "Loyality Voucher Settings"
+ },
+ {
+  "label_Id": 1907,
+  "label_Text": "Calculate Points"
+ },
+ {
+  "label_Id": 1908,
+  "label_Text": "Replace Point With Voucher"
+ },
+ {
+  "label_Id": 1909,
+  "label_Text": "System Settengs"
+ },
+ {
+  "label_Id": 1910,
+  "label_Text": "Set Scale Barcode Reading To  Price not Quntity"
+ },
+ {
+  "label_Id": 1911,
+  "label_Text": "Set Scale Weight on KG"
+ },
+ {
+  "label_Id": 1912,
+  "label_Text": "Send Mail With Sales on Close Application"
+ },
+ {
+  "label_Id": 1913,
+  "label_Text": "BackUp on Exit"
+ },
+ {
+  "label_Id": 1914,
+  "label_Text": "Max Serial Of Bill"
+ },
+ {
+  "label_Id": 1915,
+  "label_Text": "SMS"
+ },
+ {
+  "label_Id": 1916,
+  "label_Text": "Send SMS on Exit"
+ },
+ {
+  "label_Id": 1917,
+  "label_Text": "Update Item Price In Other Stores"
+ },
+ {
+  "label_Id": 1918,
+  "label_Text": "Show Shortcut Bar on Main Window"
+ },
+ {
+  "label_Id": 1919,
+  "label_Text": "Define Item To Other Stores"
+ },
+ {
+  "label_Id": 1920,
+  "label_Text": "Use old Model for Search Item"
+ },
+ {
+  "label_Id": 1921,
+  "label_Text": "Remove Item From Report Close Day"
+ },
+ {
+  "label_Id": 1922,
+  "label_Text": "Calc Discount With Vat"
+ },
+ {
+  "label_Id": 1923,
+  "label_Text": "Print Item Name Arabic and English"
+ },
+ {
+  "label_Id": 1924,
+  "label_Text": "Logo and Name"
+ },
+ {
+  "label_Id": 1925,
+  "label_Text": "Transfer Tax Value to Discount"
+ },
+ {
+  "label_Id": 1926,
+  "label_Text": "Show Item Price Without Tax"
+ },
+ {
+  "label_Id": 1927,
+  "label_Text": "Start Apply Tax on Sales and Purches"
+ },
+ {
+  "label_Id": 1928,
+  "label_Text": "Text Logo"
+ },
+ {
+  "label_Id": 1929,
+  "label_Text": "PackGround Image"
+ },
+ {
+  "label_Id": 1930,
+  "label_Text": "Logo Image"
+ },
+ {
+  "label_Id": 1931,
+  "label_Text": "Back Color"
+ },
+ {
+  "label_Id": 1932,
+  "label_Text": "Upload Photo"
+ },
+ {
+  "label_Id": 1933,
+  "label_Text": "Capture Photo"
+ },
+ {
+  "label_Id": 1934,
+  "label_Text": "No Internet Available"
+ },
+ {
+  "label_Id": 1935,
+  "label_Text": "Register Is Canccelled"
+ },
+ {
+  "label_Id": 1936,
+  "label_Text": "Post Save Fail"
+ },
+ {
+  "label_Id": 1937,
+  "label_Text": "End Date Should Be Greate Than Start Date"
+ },
+ {
+  "label_Id": 1938,
+  "label_Text": "Month difference Should Be Greater Than One"
+ },
+ {
+  "label_Id": 1939,
+  "label_Text": "Create Installment Plan"
+ },
+ {
+  "label_Id": 1940,
+  "label_Text": "Total Money"
+ },
+ {
+  "label_Id": 1941,
+  "label_Text": "Please Add Installment Plan Details"
+ },
+ {
+  "label_Id": 1942,
+  "label_Text": "Total Amount Of Instllment Is Requierd"
+ },
+ {
+  "label_Id": 1943,
+  "label_Text": "Default Customer Is Requierd"
+ },
+ {
+  "label_Id": 1944,
+  "label_Text": "Default Customer Is Requierd"
+ },
+ {
+  "label_Id": 1945,
+  "label_Text": "Customer Is Requierd"
+ },
+ {
+  "label_Id": 1946,
+  "label_Text": "Sum Detail Amount Not Equal Total"
+ },
+ {
+  "label_Id": 1947,
+  "label_Text": "Transfer Fraction Money To"
+ },
+ {
+  "label_Id": 1948,
+  "label_Text": "To First Installment"
+ },
+ {
+  "label_Id": 1949,
+  "label_Text": "To Last Installment"
+ },
+ {
+  "label_Id": 1950,
+  "label_Text": "Is Register Before Install System"
+ },
+ {
+  "label_Id": 1951,
+  "label_Text": "Last Sale Price"
+ },
+ {
+  "label_Id": 1952,
+  "label_Text": "Period Allow to Edit is Finished"
+ },
+ {
+  "label_Id": 1953,
+  "label_Text": "Item Balance not Enough"
+ },
+ {
+  "label_Id": 1954,
+  "label_Text": "Invoice Number Already Exist"
+ },
+ {
+  "label_Id": 1955,
+  "label_Text": "Pay"
+ },
+ {
+  "label_Id": 1956,
+  "label_Text": "Installment Plan Not Saved"
+ },
+ {
+  "label_Id": 1957,
+  "label_Text": "Count Installment"
+ },
+ {
+  "label_Id": 1958,
+  "label_Text": "Distribute Installment"
+ },
+ {
+  "label_Id": 1959,
+  "label_Text": "Installment Plan"
+ },
+ {
+  "label_Id": 1960,
+  "label_Text": "Total Paid Customer"
+ },
+ {
+  "label_Id": 1961,
+  "label_Text": "Total Due Customer"
+ },
+ {
+  "label_Id": 1962,
+  "label_Text": "Amount Paid"
+ },
+ {
+  "label_Id": 1963,
+  "label_Text": "Due Date"
+ },
+ {
+  "label_Id": 1964,
+  "label_Text": "Installment Amount"
+ },
+ {
+  "label_Id": 1965,
+  "label_Text": "Installment Code"
+ },
+ {
+  "label_Id": 1966,
+  "label_Text": "Total Installment Due"
+ },
+ {
+  "label_Id": 1967,
+  "label_Text": "Total Installment Paid"
+ },
+ {
+  "label_Id": 1968,
+  "label_Text": "Customer Balance"
+ },
+ {
+  "label_Id": 1969,
+  "label_Text": "Days Of Distrbute Installment"
+ },
+ {
+  "label_Id": 1970,
+  "label_Text": "Remainders From Dividing"
+ },
+ {
+  "label_Id": 1971,
+  "label_Text": "Installment Configuration"
+ },
+ {
+  "label_Id": 1972,
+  "label_Text": "Days Alert Installment Due"
+ },
+ {
+  "label_Id": 1973,
+  "label_Text": "Sponsor"
+ },
+ {
+  "label_Id": 1974,
+  "label_Text": "Is Sponsor"
+ },
+ {
+  "label_Id": 1975,
+  "label_Text": "Item Serial"
+ },
+ {
+  "label_Id": 1976,
+  "label_Text": "Paid of Installment Plan Number"
+ },
+ {
+  "label_Id": 1977,
+  "label_Text": "Add Sponsor"
+ },
+ {
+  "label_Id": 1978,
+  "label_Text": "Remaining Amount"
+ },
+ {
+  "label_Id": 1979,
+  "label_Text": "Begin Balance"
+ },
+ {
+  "label_Id": 1980,
+  "label_Text": "Balnce > 0"
+ },
+ {
+  "label_Id": 1981,
+  "label_Text": "Control Title"
+ },
+ {
+  "label_Id": 1982,
+  "label_Text": "Visable"
+ },
+ {
+  "label_Id": 1983,
+  "label_Text": "Width Percentage"
+ },
+ {
+  "label_Id": 1984,
+  "label_Text": "Display Index"
+ },
+ {
+  "label_Id": 1985,
+  "label_Text": "By Ratio"
+ },
+ {
+  "label_Id": 1986,
+  "label_Text": "#NAME?"
+ },
+ {
+  "label_Id": 1987,
+  "label_Text": "Fixed Value"
+ },
+ {
+  "label_Id": 1989,
+  "label_Text": "PreView"
+ },
+ {
+  "label_Id": 1990,
+  "label_Text": "Enter Bill Number"
+ },
+ {
+  "label_Id": 1991,
+  "label_Text": "Preview Bill"
+ },
+ {
+  "label_Id": 1992,
+  "label_Text": "Please Enter Begining Amount in Cash Drawer"
+ },
+ {
+  "label_Id": 1993,
+  "label_Text": "Detrimen Price of Item"
+ },
+ {
+  "label_Id": 1994,
+  "label_Text": "Return Bill Is Active"
+ },
+ {
+  "label_Id": 1995,
+  "label_Text": "Units And  Price of Item"
+ },
+ {
+  "label_Id": 1996,
+  "label_Text": "Do_You_Want_To_Add_New_Customer"
+ },
+ {
+  "label_Id": 1997,
+  "label_Text": "Add_New_Customer"
+ },
+ {
+  "label_Id": 1998,
+  "label_Text": "Manage Bill"
+ },
+ {
+  "label_Id": 1999,
+  "label_Text": "Current Balance"
+ },
+ {
+  "label_Id": 2000,
+  "label_Text": "Amount"
+ },
+ {
+  "label_Id": 2001,
+  "label_Text": "Qty In"
+ },
+ {
+  "label_Id": 2002,
+  "label_Text": " Qty Out"
+ },
+ {
+  "label_Id": 2003,
+  "label_Text": "Computer Title"
+ },
+ {
+  "label_Id": 2004,
+  "label_Text": "Machine Name"
+ },
+ {
+  "label_Id": 2005,
+  "label_Text": "Default Note Type"
+ },
+ {
+  "label_Id": 2006,
+  "label_Text": "Store"
+ },
+ {
+  "label_Id": 2007,
+  "label_Text": "Free Space Is Less"
+ },
+ {
+  "label_Id": 2008,
+  "label_Text": "Ask For Money In Drawer On Close or Open Day"
+ },
+ {
+  "label_Id": 2009,
+  "label_Text": "Reference Number Application Delivery"
+ },
+ {
+  "label_Id": 2010,
+  "label_Text": "Search Or Save Customer"
+ },
+ {
+  "label_Id": 2011,
+  "label_Text": "Customer Name Exist"
+ },
+ {
+  "label_Id": 2012,
+  "label_Text": "Customer Data Not Exist"
+ },
+ {
+  "label_Id": 2013,
+  "label_Text": "Is Application Delivery"
+ },
+ {
+  "label_Id": 2014,
+  "label_Text": "Order Number"
+ },
+ {
+  "label_Id": 2015,
+  "label_Text": "Program Tutorial"
+ },
+ {
+  "label_Id": 2016,
+  "label_Text": "Search Or Save Sender"
+ },
+ {
+  "label_Id": 2017,
+  "label_Text": "Search Or Save Receiver"
+ },
+ {
+  "label_Id": 2018,
+  "label_Text": "Search Or Save Driver"
+ },
+ {
+  "label_Id": 2019,
+  "label_Text": "Delivery Done"
+ },
+ {
+  "label_Id": 2020,
+  "label_Text": "Delivery Shipment"
+ },
+ {
+  "label_Id": 2021,
+  "label_Text": "Please Provide Sender Information"
+ },
+ {
+  "label_Id": 2022,
+  "label_Text": "No Shipment Selected"
+ },
+ {
+  "label_Id": 2023,
+  "label_Text": "Shipment Return On"
+ },
+ {
+  "label_Id": 2024,
+  "label_Text": "Return Shipment"
+ },
+ {
+  "label_Id": 2025,
+  "label_Text": "Modify Is Locked"
+ },
+ {
+  "label_Id": 2026,
+  "label_Text": "Sender Mobile"
+ },
+ {
+  "label_Id": 2027,
+  "label_Text": "Receiver Name"
+ },
+ {
+  "label_Id": 2028,
+  "label_Text": "Shipment Number"
+ },
+ {
+  "label_Id": 2029,
+  "label_Text": "Receiver Mobile"
+ },
+ {
+  "label_Id": 2030,
+  "label_Text": "Sender"
+ },
+ {
+  "label_Id": 2031,
+  "label_Text": "Cancel Shipment"
+ },
+ {
+  "label_Id": 2032,
+  "label_Text": "Total Transport "
+ },
+ {
+  "label_Id": 2033,
+  "label_Text": "Net Shipment"
+ },
+ {
+  "label_Id": 2034,
+  "label_Text": "Driver"
+ },
+ {
+  "label_Id": 2035,
+  "label_Text": "Time Elapsed"
+ },
+ {
+  "label_Id": 2036,
+  "label_Text": "Shipment Status"
+ },
+ {
+  "label_Id": 2037,
+  "label_Text": "Receiver"
+ },
+ {
+  "label_Id": 2038,
+  "label_Text": "Receiver  Mobile"
+ },
+ {
+  "label_Id": 2039,
+  "label_Text": "Shipment Track"
+ },
+ {
+  "label_Id": 2040,
+  "label_Text": "Shipment Cancelled On"
+ },
+ {
+  "label_Id": 2041,
+  "label_Text": "Supplier Name Exist"
+ },
+ {
+  "label_Id": 2042,
+  "label_Text": "Include Vat On Edit Price"
+ },
+ {
+  "label_Id": 2043,
+  "label_Text": "Percentage Sales"
+ },
+ {
+  "label_Id": 2044,
+  "label_Text": "Birth Date"
+ },
+ {
+  "label_Id": 2045,
+  "label_Text": "Customer Display"
+ },
+ {
+  "label_Id": 2046,
+  "label_Text": "Item Is Different Factor"
+ },
+ {
+  "label_Id": 2047,
+  "label_Text": "Detrimen Factor of Item"
+ },
+ {
+  "label_Id": 2048,
+  "label_Text": "Factor"
+ },
+ {
+  "label_Id": 2049,
+  "label_Text": "Car Type"
+ },
+ {
+  "label_Id": 2050,
+  "label_Text": "Car Color"
+ },
+ {
+  "label_Id": 2051,
+  "label_Text": "Expiry Date"
+ },
+ {
+  "label_Id": 2052,
+  "label_Text": "Is Non Balance"
+ },
+ {
+  "label_Id": 2053,
+  "label_Text": "Car"
+ },
+ {
+  "label_Id": 2054,
+  "label_Text": "Save Without Print"
+ },
+ {
+  "label_Id": 2055,
+  "label_Text": "Vocuher Settings Not Save"
+ },
+ {
+  "label_Id": 2056,
+  "label_Text": "Points"
+ },
+ {
+  "label_Id": 2057,
+  "label_Text": "Bill Date"
+ },
+ {
+  "label_Id": 2058,
+  "label_Text": "Bill Amount"
+ },
+ {
+  "label_Id": 2059,
+  "label_Text": "Voucher Value"
+ },
+ {
+  "label_Id": 2060,
+  "label_Text": "User Transaction"
+ },
+ {
+  "label_Id": 2061,
+  "label_Text": "Car Color"
+ },
+ {
+  "label_Id": 2062,
+  "label_Text": "Car Type"
+ },
+ {
+  "label_Id": 2063,
+  "label_Text": "Car Number"
+ },
+ {
+  "label_Id": 2064,
+  "label_Text": "Transaction Out"
+ },
+ {
+  "label_Id": 2065,
+  "label_Text": "Transaction In"
+ },
+ {
+  "label_Id": 2066,
+  "label_Text": "Main"
+ },
+ {
+  "label_Id": 2067,
+  "label_Text": "Is Enable"
+ },
+ {
+  "label_Id": 2068,
+  "label_Text": "Amount Paid Less Than Bill Amount"
+ },
+ {
+  "label_Id": 2069,
+  "label_Text": "Write Amount Paid"
+ },
+ {
+  "label_Id": 2070,
+  "label_Text": "Max Discount Percentage"
+ },
+ {
+  "label_Id": 2071,
+  "label_Text": "You Exceed Max Discount Percentage"
+ },
+ {
+  "label_Id": 2072,
+  "label_Text": "Delete Backup Created Before"
+ },
+ {
+  "label_Id": 2073,
+  "label_Text": "Employee Selection Is Requierd"
+ },
+ {
+  "label_Id": 2074,
+  "label_Text": "Selection Of Employee Is Requierd"
+ },
+ {
+  "label_Id": 2075,
+  "label_Text": "Enable Cancel Reserved Bill"
+ },
+ {
+  "label_Id": 2076,
+  "label_Text": "Total_AR_EN"
+ },
+ {
+  "label_Id": 2077,
+  "label_Text": "Net_AR_EN"
+ },
+ {
+  "label_Id": 2078,
+  "label_Text": "Rest_AR_EN"
+ },
+ {
+  "label_Id": 2079,
+  "label_Text": "Discount_AR_EN"
+ },
+ {
+  "label_Id": 2080,
+  "label_Text": "VAT_AR_EN"
+ },
+ {
+  "label_Id": 2081,
+  "label_Text": "Quantity_AR_EN"
+ },
+ {
+  "label_Id": 2082,
+  "label_Text": "Is Code Of POS Transaction Separated"
+ },
+ {
+  "label_Id": 2083,
+  "label_Text": "Item Balance"
+ },
+ {
+  "label_Id": 2084,
+  "label_Text": "Save & Print"
+ },
+ {
+  "label_Id": 2085,
+  "label_Text": "Print Prepairing"
+ },
+ {
+  "label_Id": 2086,
+  "label_Text": "Please Select Table For Local Order"
+ },
+ {
+  "label_Id": 2087,
+  "label_Text": "Printer Settings"
+ },
+ {
+  "label_Id": 2088,
+  "label_Text": "Number of bills for printing Local"
+ },
+ {
+  "label_Id": 2089,
+  "label_Text": "Number of bills for printing Delivery"
+ },
+ {
+  "label_Id": 2090,
+  "label_Text": "Number of bills for printing Out"
+ },
+ {
+  "label_Id": 2091,
+  "label_Text": "Printer Of Prescription"
+ },
+ {
+  "label_Id": 2092,
+  "label_Text": "Is Oil Service Item"
+ },
+ {
+  "label_Id": 2093,
+  "label_Text": "Is Filter Service Item"
+ },
+ {
+  "label_Id": 2094,
+  "label_Text": "Show Car Of Customer"
+ },
+ {
+  "label_Id": 2095,
+  "label_Text": "Print Reserved Bill on Printer Kitchen only"
+ },
+ {
+  "label_Id": 2096,
+  "label_Text": "By Car Number"
+ },
+ {
+  "label_Id": 2097,
+  "label_Text": "Print Sticker"
+ },
+ {
+  "label_Id": 2098,
+  "label_Text": "Current Counter"
+ },
+ {
+  "label_Id": 2099,
+  "label_Text": "Comming Counter"
+ },
+ {
+  "label_Id": 2300,
+  "label_Text": "Please Enter Car Number"
+ },
+ {
+  "label_Id": 2301,
+  "label_Text": "Show Save And Print Button"
+ },
+ {
+  "label_Id": 2302,
+  "label_Text": "Show Print Sticker Button"
+ },
+ {
+  "label_Id": 2303,
+  "label_Text": "Click On Me To Remove"
+ },
+ {
+  "label_Id": 2304,
+  "label_Text": "Car Service"
+ },
+ {
+  "label_Id": 2305,
+  "label_Text": "Application Delivery"
+ },
+ {
+  "label_Id": 2306,
+  "label_Text": "Reserved Orders"
+ },
+ {
+  "label_Id": 2307,
+  "label_Text": "Sales Price"
+ },
+ {
+  "label_Id": 2308,
+  "label_Text": "Whole Sale"
+ },
+ {
+  "label_Id": 2309,
+  "label_Text": "Total Cost"
+ },
+ {
+  "label_Id": 2310,
+  "label_Text": "Cost Price"
+ },
+ {
+  "label_Id": 2311,
+  "label_Text": "Total In Sales Price"
+ },
+ {
+  "label_Id": 2312,
+  "label_Text": "Total In Cost Price"
+ },
+ {
+  "label_Id": 2313,
+  "label_Text": "Open Date"
+ },
+ {
+  "label_Id": 2314,
+  "label_Text": "Is Closed"
+ },
+ {
+  "label_Id": 2315,
+  "label_Text": "Date Close"
+ },
+ {
+  "label_Id": 2316,
+  "label_Text": "Begin Amount"
+ },
+ {
+  "label_Id": 2317,
+  "label_Text": "Best seller"
+ },
+ {
+  "label_Id": 2318,
+  "label_Text": "Least selling"
+ },
+ {
+  "label_Id": 2319,
+  "label_Text": "Summry Report"
+ },
+ {
+  "label_Id": 2320,
+  "label_Text": "Detail Of Items"
+ },
+ {
+  "label_Id": 2321,
+  "label_Text": "Detail Report"
+ },
+ {
+  "label_Id": 2322,
+  "label_Text": "Update Item Sales Price"
+ },
+ {
+  "label_Id": 2323,
+  "label_Text": "مبيعات"
+ },
+ {
+  "label_Id": 2324,
+  "label_Text": "مشتريات"
+ },
+ {
+  "label_Id": 2325,
+  "label_Text": "مرتجع مبيعات"
+ },
+ {
+  "label_Id": 2326,
+  "label_Text": "مرتجع مشتريات"
+ },
+ {
+  "label_Id": 2327,
+  "label_Text": "طلب صرف"
+ },
+ {
+  "label_Id": 2328,
+  "label_Text": "Profit Percentage"
+ },
+ {
+  "label_Id": 2329,
+  "label_Text": "Project"
+ },
+ {
+  "label_Id": 2330,
+  "label_Text": "حجز فاتورة مطعم"
+ },
+ {
+  "label_Id": 2331,
+  "label_Text": "إلغاء حجز فاتورة مطعم"
+ },
+ {
+  "label_Id": 2332,
+  "label_Text": "نقل من مخزن"
+ },
+ {
+  "label_Id": 2333,
+  "label_Text": "إستلام عهده"
+ },
+ {
+  "label_Id": 2334,
+  "label_Text": "Shipment"
+ },
+ {
+  "label_Id": 2335,
+  "label_Text": "Car Registration"
+ },
+ {
+  "label_Id": 2336,
+  "label_Text": "Payment Order"
+ },
+ {
+  "label_Id": 2337,
+  "label_Text": "انتاج تصنيع"
+ },
+ {
+  "label_Id": 2338,
+  "label_Text": "عرض سعر"
+ },
+ {
+  "label_Id": 2339,
+  "label_Text": "صرف عهده"
+ },
+ {
+  "label_Id": 2340,
+  "label_Text": "From_Account_To_Box_Account"
+ },
+ {
+  "label_Id": 2341,
+  "label_Text": "Delever To"
+ },
+ {
+  "label_Id": 2342,
+  "label_Text": "Delever From"
+ },
+ {
+  "label_Id": 2343,
+  "label_Text": "Profit"
+ },
+ {
+  "label_Id": 2344,
+  "label_Text": "Value without Percentage"
+ },
+ {
+  "label_Id": 2345,
+  "label_Text": "Do you Want To Apply Changes For All User"
+ },
+ {
+  "label_Id": 2346,
+  "label_Text": "Apply Change To All User"
+ },
+ {
+  "label_Id": 2347,
+  "label_Text": "Is Percentage Zero"
+ },
+ {
+  "label_Id": 2348,
+  "label_Text": "Enable Track Status"
+ },
+ {
+  "label_Id": 2349,
+  "label_Text": "Number Of Copy Print"
+ },
+ {
+  "label_Id": 2350,
+  "label_Text": "Show Tables"
+ },
+ {
+  "label_Id": 2351,
+  "label_Text": "Show Employees"
+ },
+ {
+  "label_Id": 2352,
+  "label_Text": "Show Customers"
+ },
+ {
+  "label_Id": 2353,
+  "label_Text": "Enable Reservation"
+ },
+ {
+  "label_Id": 2354,
+  "label_Text": "Press New First To Save An New Element"
+ },
+ {
+  "label_Id": 2355,
+  "label_Text": "Do You want to save new item"
+ },
+ {
+  "label_Id": 2356,
+  "label_Text": "Save New Item"
+ },
+ {
+  "label_Id": 2357,
+  "label_Text": "Is Confirmed"
+ },
+ {
+  "label_Id": 2358,
+  "label_Text": "Show Confirmation"
+ },
+ {
+  "label_Id": 2359,
+  "label_Text": "Note Confirmation"
+ },
+ {
+  "label_Id": 2360,
+  "label_Text": "Is Item Diffrent Factor"
+ },
+ {
+  "label_Id": 2361,
+  "label_Text": "Calling Coming from Customer "
+ },
+ {
+  "label_Id": 2362,
+  "label_Text": "Calling Customer"
+ },
+ {
+  "label_Id": 2363,
+  "label_Text": "Calling Coming from Not Register Customer "
+ },
+ {
+  "label_Id": 2364,
+  "label_Text": "UnRegister Number"
+ },
+ {
+  "label_Id": 2365,
+  "label_Text": "There Is An Open Station for This User"
+ },
+ {
+  "label_Id": 2367,
+  "label_Text": "Open Station Exist"
+ },
+ {
+  "label_Id": 2368,
+  "label_Text": "Expenses"
+ },
+ {
+  "label_Id": 2369,
+  "label_Text": "InCome"
+ },
+ {
+  "label_Id": 2370,
+  "label_Text": "Asoul"
+ },
+ {
+  "label_Id": 2371,
+  "label_Text": "Khsoum"
+ },
+ {
+  "label_Id": 2372,
+  "label_Text": "Register In Transaction"
+ },
+ {
+  "label_Id": 2373,
+  "label_Text": "Order"
+ },
+ {
+  "label_Id": 2374,
+  "label_Text": "Created By"
+ },
+ {
+  "label_Id": 2375,
+  "label_Text": "Total Debit"
+ },
+ {
+  "label_Id": 2376,
+  "label_Text": "Total Credit"
+ },
+ {
+  "label_Id": 2377,
+  "label_Text": "Eradat"
+ },
+ {
+  "label_Id": 2378,
+  "label_Text": "Outcome"
+ },
+ {
+  "label_Id": 2379,
+  "label_Text": "From_Account"
+ },
+ {
+  "label_Id": 2380,
+  "label_Text": "Set Other currency with zero value"
+ },
+ {
+  "label_Id": 2381,
+  "label_Text": "InMoney"
+ },
+ {
+  "label_Id": 2382,
+  "label_Text": "Total_In_Money"
+ },
+ {
+  "label_Id": 2383,
+  "label_Text": "Total_Out_Money"
+ },
+ {
+  "label_Id": 2384,
+  "label_Text": "Total Quantity In"
+ },
+ {
+  "label_Id": 2385,
+  "label_Text": "Total Quantity Out"
+ },
+ {
+  "label_Id": 2386,
+  "label_Text": "Identity"
+ },
+ {
+  "label_Id": 2387,
+  "label_Text": "Net Bills"
+ },
+ {
+  "label_Id": 2388,
+  "label_Text": "Net Bill With Filiter Item"
+ },
+ {
+  "label_Id": 2389,
+  "label_Text": "Transportion"
+ },
+ {
+  "label_Id": 2390,
+  "label_Text": "Confirmed"
+ },
+ {
+  "label_Id": 2391,
+  "label_Text": "Price Begin Balance"
+ },
+ {
+  "label_Id": 2392,
+  "label_Text": "Price Sale"
+ },
+ {
+  "label_Id": 2393,
+  "label_Text": "Item Serail"
+ },
+ {
+  "label_Id": 2394,
+  "label_Text": "1- Sales With VAT"
+ },
+ {
+  "label_Id": 2395,
+  "label_Text": "2-Return Sales With VAT"
+ },
+ {
+  "label_Id": 2396,
+  "label_Text": "3- Sales Without Vat"
+ },
+ {
+  "label_Id": 2397,
+  "label_Text": "4 - Net Sales"
+ },
+ {
+  "label_Id": 2398,
+  "label_Text": "5- Purchase With VAT"
+ },
+ {
+  "label_Id": 2399,
+  "label_Text": "6- Return Purchase With VAT"
+ },
+ {
+  "label_Id": 2400,
+  "label_Text": "7- Purchase Without VAT"
+ },
+ {
+  "label_Id": 2401,
+  "label_Text": "8- Net Purchase"
+ },
+ {
+  "label_Id": 2402,
+  "label_Text": "9- Total Toboco For This Period"
+ },
+ {
+  "label_Id": 2403,
+  "label_Text": "NET Vat For This Period"
+ },
+ {
+  "label_Id": 2404,
+  "label_Text": "Total Toboco VAT"
+ },
+ {
+  "label_Id": 2405,
+  "label_Text": "VAT on Sales"
+ },
+ {
+  "label_Id": 2406,
+  "label_Text": "VAT on Purchase"
+ },
+ {
+  "label_Id": 2407,
+  "label_Text": "Time"
+ },
+ {
+  "label_Id": 2408,
+  "label_Text": "Type"
+ },
+ {
+  "label_Id": 2409,
+  "label_Text": "Diffrence"
+ },
+ {
+  "label_Id": 2410,
+  "label_Text": "Recaculate Item Cost"
+ },
+ {
+  "label_Id": 2411,
+  "label_Text": "Action"
+ },
+ {
+  "label_Id": 2412,
+  "label_Text": "Date Action"
+ },
+ {
+  "label_Id": 2413,
+  "label_Text": "Customer\/Supplie"
+ },
+ {
+  "label_Id": 2414,
+  "label_Text": "Value Diffrence"
+ },
+ {
+  "label_Id": 2415,
+  "label_Text": "Affect"
+ },
+ {
+  "label_Id": 2416,
+  "label_Text": "Actual Quantity"
+ },
+ {
+  "label_Id": 2417,
+  "label_Text": "Quantity System"
+ },
+ {
+  "label_Id": 2418,
+  "label_Text": "Increment Inventory"
+ },
+ {
+  "label_Id": 2419,
+  "label_Text": "Decrement Inventory"
+ },
+ {
+  "label_Id": 2420,
+  "label_Text": "Items Gather"
+ },
+ {
+  "label_Id": 2421,
+  "label_Text": "Total In Cost"
+ },
+ {
+  "label_Id": 2422,
+  "label_Text": "Totals"
+ },
+ {
+  "label_Id": 2423,
+  "label_Text": "Balances"
+ },
+ {
+  "label_Id": 2424,
+  "label_Text": "Details"
+ },
+ {
+  "label_Id": 2425,
+  "label_Text": "Total Paid"
+ },
+ {
+  "label_Id": 2426,
+  "label_Text": " Total Remain"
+ },
+ {
+  "label_Id": 2427,
+  "label_Text": "Estihkak"
+ },
+ {
+  "label_Id": 2428,
+  "label_Text": "Subtract"
+ },
+ {
+  "label_Id": 2429,
+  "label_Text": "total Amount Due on Customer"
+ },
+ {
+  "label_Id": 2430,
+  "label_Text": "Total Paid Amount"
+ },
+ {
+  "label_Id": 2431,
+  "label_Text": "Total Amount Remainig"
+ },
+ {
+  "label_Id": 2432,
+  "label_Text": "Receipt Number"
+ },
+ {
+  "label_Id": 2433,
+  "label_Text": "Remaining"
+ },
+ {
+  "label_Id": 2434,
+  "label_Text": "No Payment"
+ },
+ {
+  "label_Id": 2435,
+  "label_Text": "Amount Due"
+ },
+ {
+  "label_Id": 2436,
+  "label_Text": "Total Deliver From Employee"
+ },
+ {
+  "label_Id": 2437,
+  "label_Text": "Net Sales Of Employee"
+ },
+ {
+  "label_Id": 2438,
+  "label_Text": "Executed Time"
+ },
+ {
+  "label_Id": 2439,
+  "label_Text": "total Delivery "
+ },
+ {
+  "label_Id": 2440,
+  "label_Text": "Net In"
+ },
+ {
+  "label_Id": 2441,
+  "label_Text": "net out"
+ },
+ {
+  "label_Id": 2442,
+  "label_Text": "Value of Begin Balance"
+ },
+ {
+  "label_Id": 2443,
+  "label_Text": "Value Current Balance"
+ },
+ {
+  "label_Id": 2444,
+  "label_Text": "total In"
+ },
+ {
+  "label_Id": 2445,
+  "label_Text": "Total Out"
+ },
+ {
+  "label_Id": 2446,
+  "label_Text": "Allowed Discount"
+ },
+ {
+  "label_Id": 2447,
+  "label_Text": "Cost of Seles"
+ },
+ {
+  "label_Id": 2448,
+  "label_Text": "Begin Balance Inventory"
+ },
+ {
+  "label_Id": 2449,
+  "label_Text": "Purchase Expenses"
+ },
+ {
+  "label_Id": 2450,
+  "label_Text": "Sales Expenses"
+ },
+ {
+  "label_Id": 2451,
+  "label_Text": "Gain Discount"
+ },
+ {
+  "label_Id": 2452,
+  "label_Text": "End Inventory"
+ },
+ {
+  "label_Id": 2453,
+  "label_Text": "Total Profit"
+ },
+ {
+  "label_Id": 2454,
+  "label_Text": "Incerement Inventory"
+ },
+ {
+  "label_Id": 2455,
+  "label_Text": "General Expenses"
+ },
+ {
+  "label_Id": 2456,
+  "label_Text": "Other Income"
+ },
+ {
+  "label_Id": 2457,
+  "label_Text": "Net Lose Or Profit"
+ },
+ {
+  "label_Id": 2458,
+  "label_Text": "Inventroy Check"
+ },
+ {
+  "label_Id": 2459,
+  "label_Text": "Transfer Store"
+ },
+ {
+  "label_Id": 2460,
+  "label_Text": "Receiver Store"
+ },
+ {
+  "label_Id": 2461,
+  "label_Text": "Trasnaction Type"
+ },
+ {
+  "label_Id": 2462,
+  "label_Text": "User Signature"
+ },
+ {
+  "label_Id": 2463,
+  "label_Text": "Employee Signature"
+ },
+ {
+  "label_Id": 2464,
+  "label_Text": "Receiver Signature"
+ },
+ {
+  "label_Id": 2465,
+  "label_Text": "Item Description"
+ },
+ {
+  "label_Id": 2466,
+  "label_Text": "Length"
+ },
+ {
+  "label_Id": 2467,
+  "label_Text": "CBS"
+ },
+ {
+  "label_Id": 2468,
+  "label_Text": "Item Price"
+ },
+ {
+  "label_Id": 2469,
+  "label_Text": "Generated Transport"
+ },
+ {
+  "label_Id": 2470,
+  "label_Text": "Item Price In Currency"
+ },
+ {
+  "label_Id": 2471,
+  "label_Text": "Exchange Rate"
+ },
+ {
+  "label_Id": 2472,
+  "label_Text": "Generated Item"
+ },
+ {
+  "label_Id": 2473,
+  "label_Text": "Item Total Cost"
+ },
+ {
+  "label_Id": 2474,
+  "label_Text": "Empty Column1"
+ },
+ {
+  "label_Id": 2475,
+  "label_Text": "Empty Column 2"
+ },
+ {
+  "label_Id": 2476,
+  "label_Text": "Empty Column 3"
+ },
+ {
+  "label_Id": 2477,
+  "label_Text": "Total Generated "
+ },
+ {
+  "label_Id": 2478,
+  "label_Text": "Dimension Is Requierd"
+ },
+ {
+  "label_Id": 2479,
+  "label_Text": "Total Value Cost"
+ },
+ {
+  "label_Id": 2480,
+  "label_Text": "Change Image"
+ },
+ {
+  "label_Id": 2481,
+  "label_Text": "Delete"
+ },
+ {
+  "label_Id": 2482,
+  "label_Text": "Unit Price In Currency"
+ },
+ {
+  "label_Id": 2483,
+  "label_Text": "Total Transport Unit"
+ },
+ {
+  "label_Id": 2484,
+  "label_Text": "Count Unit"
+ },
+ {
+  "label_Id": 2485,
+  "label_Text": "Generated Transport Unit"
+ },
+ {
+  "label_Id": 2486,
+  "label_Text": "Item Code Is Saved Before"
+ },
+ {
+  "label_Id": 2487,
+  "label_Text": "Items Deleted From Reservation"
+ },
+ {
+  "label_Id": 2488,
+  "label_Text": "Money Add"
+ },
+ {
+  "label_Id": 2489,
+  "label_Text": "Capture Picture Camera"
+ },
+ {
+  "label_Id": 2490,
+  "label_Text": "Camer Pictures"
+ },
+ {
+  "label_Id": 2491,
+  "label_Text": "Capture Picture"
+ },
+ {
+  "label_Id": 2492,
+  "label_Text": "Play Camera"
+ },
+ {
+  "label_Id": 2493,
+  "label_Text": "Stop Camera"
+ },
+ {
+  "label_Id": 2494,
+  "label_Text": "Capture"
+ },
+ {
+  "label_Id": 2495,
+  "label_Text": "Duble Click To Show All Previous Bill For Me"
+ },
+ {
+  "label_Id": 2496,
+  "label_Text": "Click Here To Open Camera And Scan Directly with it"
+ },
+ {
+  "label_Id": 2497,
+  "label_Text": "Attach File"
+ },
+ {
+  "label_Id": 2498,
+  "label_Text": "Enable Show Button Preparing order or Direct Print preparing order"
+ },
+ {
+  "label_Id": 2499,
+  "label_Text": "Show Print Prepairing order"
+ },
+ {
+  "label_Id": 2500,
+  "label_Text": "Printer Preparing Order"
+ },
+ {
+  "label_Id": 2501,
+  "label_Text": "Close Day"
+ },
+ {
+  "label_Id": 2502,
+  "label_Text": "Not Allow to Delete item from Reserved and Save Bill"
+ },
+ {
+  "label_Id": 2503,
+  "label_Text": "Local Invoice Should Assign With Table"
+ },
+ {
+  "label_Id": 2504,
+  "label_Text": "Table Is Reserved with Transaction : "
+ },
+ {
+  "label_Id": 2505,
+  "label_Text": "Table is allowed to use in local order only"
+ },
+ {
+  "label_Id": 2506,
+  "label_Text": "No Items Found on This Table Maybe it's Clearq"
+ },
+ {
+  "label_Id": 2507,
+  "label_Text": "Please Select Table To Start Transfer"
+ },
+ {
+  "label_Id": 2508,
+  "label_Text": "Transfer Table Should Be Diffrent"
+ },
+ {
+  "label_Id": 2509,
+  "label_Text": "Transfeer To Table Is Requierd"
+ },
+ {
+  "label_Id": 2510,
+  "label_Text": "Please Select From Table To Start Transfeer"
+ },
+ {
+  "label_Id": 2511,
+  "label_Text": "Must select Items To Transfer"
+ },
+ {
+  "label_Id": 2512,
+  "label_Text": "Transfeer"
+ },
+ {
+  "label_Id": 2513,
+  "label_Text": "From Table"
+ },
+ {
+  "label_Id": 2514,
+  "label_Text": "To Table"
+ },
+ {
+  "label_Id": 2515,
+  "label_Text": "Select All"
+ },
+ {
+  "label_Id": 2516,
+  "label_Text": "Confirm Selected"
+ },
+ {
+  "label_Id": 2517,
+  "label_Text": "Select All"
+ },
+ {
+  "label_Id": 2518,
+  "label_Text": "Printer Defined For This Category {0} Is Not Exist"
+ },
+ {
+  "label_Id": 2519,
+  "label_Text": "Transaction Is Used As Source"
+ },
+ {
+  "label_Id": 2520,
+  "label_Text": "Table Is Reserved with Transaction"
+ },
+ {
+  "label_Id": 2521,
+  "label_Text": "Items Should Be Add to Transaction"
+ },
+ {
+  "label_Id": 2522,
+  "label_Text": "Entity Not Provide is Null"
+ },
+ {
+  "label_Id": 2523,
+  "label_Text": "Not Allow To Update with Delete All Items"
+ },
+ {
+  "label_Id": 2524,
+  "label_Text": "Qr Supplier"
+ },
+ {
+  "label_Id": 2525,
+  "label_Text": "Qr Tax Number"
+ },
+ {
+  "label_Id": 2526,
+  "label_Text": "Qr Date"
+ },
+ {
+  "label_Id": 2527,
+  "label_Text": "Qr VAT"
+ },
+ {
+  "label_Id": 2528,
+  "label_Text": "Qr Total"
+ },
+ {
+  "label_Id": 2529,
+  "label_Text": "VAT Save Item"
+ },
+ {
+  "label_Id": 2530,
+  "label_Text": "VAT Calc Item"
+ },
+ {
+  "label_Id": 2531,
+  "label_Text": "Item Vat %"
+ },
+ {
+  "label_Id": 2532,
+  "label_Text": "Hint_Report_Item_Diffrent_In_Calc_Vat"
+ },
+ {
+  "label_Id": 2533,
+  "label_Text": "VAT Bill"
+ },
+ {
+  "label_Id": 2534,
+  "label_Text": "Net Money"
+ },
+ {
+  "label_Id": 2535,
+  "label_Text": "Item Discount"
+ },
+ {
+  "label_Id": 2536,
+  "label_Text": "Hint_Report_Vat_How_Total_Come"
+ },
+ {
+  "label_Id": 2537,
+  "label_Text": "Hint_Report_How_Vat_Calculated"
+ },
+ {
+  "label_Id": 2538,
+  "label_Text": "VAT Free"
+ },
+ {
+  "label_Id": 2539,
+  "label_Text": "Station Open Automaticly"
+ },
+ {
+  "label_Id": 2540,
+  "label_Text": "Delete Is Locked"
+ },
+ {
+  "label_Id": 2541,
+  "label_Text": "Station Already Saved Before"
+ },
+ {
+  "label_Id": 2542,
+  "label_Text": "Close Day Uploaded on "
+ },
+ {
+  "label_Id": 2543,
+  "label_Text": "Money In Beining Day Set on "
+ },
+ {
+  "label_Id": 2544,
+  "label_Text": "Station Closed By"
+ },
+ {
+  "label_Id": 2545,
+  "label_Text": "Station Is Copy To Online Server on "
+ },
+ {
+  "label_Id": 2546,
+  "label_Text": "Report of Close Day"
+ },
+ {
+  "label_Id": 2547,
+  "label_Text": "Close Day"
+ },
+ {
+  "label_Id": 2548,
+  "label_Text": "Email of Close Day Is Sent On"
+ },
+ {
+  "label_Id": 2549,
+  "label_Text": "Send Report Of Sales After Close Day Only"
+ },
+ {
+  "label_Id": 2550,
+  "label_Text": "Hint Send Report Of Sales After Close Day Only"
+ },
+ {
+  "label_Id": 2551,
+  "label_Text": "Email for Sales Report of Close Day Is Sent On"
+ },
+ {
+  "label_Id": 2552,
+  "label_Text": "Confirm Selected"
+ },
+ {
+  "label_Id": 2553,
+  "label_Text": "Do You Need To Print Sales Report"
+ },
+ {
+  "label_Id": 2554,
+  "label_Text": "Print Sales Report"
+ },
+ {
+  "label_Id": 2555,
+  "label_Text": "Price Less Than Minimum Price"
+ },
+ {
+  "label_Id": 2556,
+  "label_Text": "Day of Sales Closed Successfuly"
+ },
+ {
+  "label_Id": 2557,
+  "label_Text": "Remember Removed Successfuly"
+ },
+ {
+  "label_Id": 2558,
+  "label_Text": "Close Day Done Successfully"
+ },
+ {
+  "label_Id": 2559,
+  "label_Text": "Not Allow To Modify or Delete Tax Bill"
+ },
+ {
+  "label_Id": 2560,
+  "label_Text": "Total Without Vat"
+ },
+ {
+  "label_Id": 2561,
+  "label_Text": "Total Vat"
+ },
+ {
+  "label_Id": 2562,
+  "label_Text": "Total Discount"
+ },
+ {
+  "label_Id": 2563,
+  "label_Text": "Total Cash"
+ },
+ {
+  "label_Id": 2564,
+  "label_Text": "Total Service"
+ },
+ {
+  "label_Id": 2565,
+  "label_Text": "Total Card"
+ },
+ {
+  "label_Id": 2566,
+  "label_Text": "Total Delay"
+ },
+ {
+  "label_Id": 2567,
+  "label_Text": "Total Others"
+ },
+ {
+  "label_Id": 2568,
+  "label_Text": "Generate Qr As Encrypted"
+ },
+ {
+  "label_Id": 2569,
+  "label_Text": "Inventory Check Automaticly save from Mobile App"
+ },
+ {
+  "label_Id": 2570,
+  "label_Text": "Missed Call"
+ },
+ {
+  "label_Id": 2571,
+  "label_Text": "No Missed Call Found"
+ },
+ {
+  "label_Id": 2572,
+  "label_Text": "#NAME?"
+ },
+ {
+  "label_Id": 2573,
+  "label_Text": "User of Station Should Register logout first from system"
+ },
+ {
+  "label_Id": 2574,
+  "label_Text": "Is Ignore Service"
+ },
+ {
+  "label_Id": 2575,
+  "label_Text": "Hint Is Ignore Service"
+ },
+ {
+  "label_Id": 2576,
+  "label_Text": "Money Out"
+ },
+ {
+  "label_Id": 2577,
+  "label_Text": "Money In"
+ },
+ {
+  "label_Id": 2578,
+  "label_Text": "Received Call"
+ },
+ {
+  "label_Id": 2579,
+  "label_Text": "No Received Call Found"
+ },
+ {
+  "label_Id": 2780,
+  "label_Text": "Return"
+ },
+ {
+  "label_Id": 2781,
+  "label_Text": "Commission Value"
+ },
+ {
+  "label_Id": 2782,
+  "label_Text": "Commission Count"
+ },
+ {
+  "label_Id": 2783,
+  "label_Text": "Item Name Register Before"
+ },
+ {
+  "label_Id": 2784,
+  "label_Text": "Source"
+ },
+ {
+  "label_Id": 2785,
+  "label_Text": "Service Money Changed on"
+ },
+ {
+  "label_Id": 2786,
+  "label_Text": "Disply Sequence"
+ },
+ {
+  "label_Id": 2787,
+  "label_Text": "Preparing Order - طلب تجهيز"
+ },
+ {
+  "label_Id": 2788,
+  "label_Text": "Cancel Preparing Order - الغاء طلب تجهيز"
+ },
+ {
+  "label_Id": 2789,
+  "label_Text": "Please Put Data to Search for it"
+ },
+ {
+  "label_Id": 2790,
+  "label_Text": "Fill Data"
+ },
+ {
+  "label_Id": 2791,
+  "label_Text": "Show In Cost Center"
+ },
+ {
+  "label_Id": 2792,
+  "label_Text": "Account Type"
+ },
+ {
+  "label_Id": 2793,
+  "label_Text": "Arabic Name Should Provied"
+ },
+ {
+  "label_Id": 2794,
+  "label_Text": "Select Parent of account"
+ },
+ {
+  "label_Id": 2795,
+  "label_Text": "Account Nature Type Should Be Credit or Debit"
+ },
+ {
+  "label_Id": 2796,
+  "label_Text": "Can Not Delete Parent Account"
+ },
+ {
+  "label_Id": 2797,
+  "label_Text": "Can Not Delete Used in Transactions"
+ },
+ {
+  "label_Id": 2798,
+  "label_Text": "Account Number Is Saved Before"
+ },
+ {
+  "label_Id": 2799,
+  "label_Text": "Account Balance"
+ },
+ {
+  "label_Id": 2800,
+  "label_Text": "Account Number"
+ },
+ {
+  "label_Id": 2801,
+  "label_Text": "Parent Account Used in Transactions"
+ },
+ {
+  "label_Id": 2802,
+  "label_Text": "Parent Account"
+ },
+ {
+  "label_Id": 2803,
+  "label_Text": "Child Account"
+ },
+ {
+  "label_Id": 2804,
+  "label_Text": "Do You Want Add Account as Main Root Tree Account?"
+ },
+ {
+  "label_Id": 2805,
+  "label_Text": "Parent Account Not Selected"
+ },
+ {
+  "label_Id": 2806,
+  "label_Text": "Account Nature"
+ },
+ {
+  "label_Id": 2807,
+  "label_Text": "Mortgage Value Should Be Greate than Zero"
+ },
+ {
+  "label_Id": 2808,
+  "label_Text": "Mortgage Items Should Be Add"
+ },
+ {
+  "label_Id": 2809,
+  "label_Text": "Add Mortgage"
+ },
+ {
+  "label_Id": 2810,
+  "label_Text": "Return Mortgage"
+ },
+ {
+  "label_Id": 2811,
+  "label_Text": "Mortgage"
+ },
+ {
+  "label_Id": 2812,
+  "label_Text": "Customer Is Requierd"
+ },
+ {
+  "label_Id": 2813,
+  "label_Text": "Insirances"
+ },
+ {
+  "label_Id": 2814,
+  "label_Text": "No Data Changed To Proccess Save"
+ },
+ {
+  "label_Id": 2815,
+  "label_Text": "Change Account"
+ },
+ {
+  "label_Id": 2816,
+  "label_Text": "Change"
+ },
+ {
+  "label_Id": 2817,
+  "label_Text": "Link Account"
+ },
+ {
+  "label_Id": 2819,
+  "label_Text": "Credit"
+ },
+ {
+  "label_Id": 2820,
+  "label_Text": "Debit"
+ },
+ {
+  "label_Id": 2821,
+  "label_Text": "Changes Not Saved, Do You wnat Disacrd Changes?"
+ },
+ {
+  "label_Id": 2822,
+  "label_Text": "Discard Save Changes"
+ },
+ {
+  "label_Id": 2823,
+  "label_Text": "Account Not Exist for {0}"
+ },
+ {
+  "label_Id": 2824,
+  "label_Text": "Box Account is not Configured"
+ },
+ {
+  "label_Id": 2834,
+  "label_Text": "This Account {0} is Not Active and Can not Used in Transaction"
+ },
+ {
+  "label_Id": 2835,
+  "label_Text": "Can Not Delete Transaction Has Paid Installment Plan"
+ },
+ {
+  "label_Id": 2836,
+  "label_Text": "Electronic Inovice"
+ },
+ {
+  "label_Id": 2837,
+  "label_Text": "Client ID"
+ },
+ {
+  "label_Id": 2838,
+  "label_Text": "Client Secret 1"
+ },
+ {
+  "label_Id": 2839,
+  "label_Text": "Client Secret 2"
+ },
+ {
+  "label_Id": 2840,
+  "label_Text": "Register Number"
+ },
+ {
+  "label_Id": 2841,
+  "label_Text": "Activity Code"
+ },
+ {
+  "label_Id": 2842,
+  "label_Text": "Client ID."
+ },
+ {
+  "label_Id": 2843,
+  "label_Text": "Branch Code"
+ },
+ {
+  "label_Id": 2844,
+  "label_Text": "Governate"
+ },
+ {
+  "label_Id": 2845,
+  "label_Text": "Area"
+ },
+ {
+  "label_Id": 2846,
+  "label_Text": "Street"
+ },
+ {
+  "label_Id": 2847,
+  "label_Text": "Building Number"
+ },
+ {
+  "label_Id": 2848,
+  "label_Text": "Address Details"
+ },
+ {
+  "label_Id": 2849,
+  "label_Text": "Address"
+ },
+ {
+  "label_Id": 2850,
+  "label_Text": "Success Push Bill To eInvoice"
+ },
+ {
+  "label_Id": 2851,
+  "label_Text": "Invoice Is Rejected To Push To eInvoice"
+ },
+ {
+  "label_Id": 2852,
+  "label_Text": "Days Can Upload Transaction"
+ },
+ {
+  "label_Id": 2853,
+  "label_Text": "Hours Waiting To Upload"
+ },
+ {
+  "label_Id": 2854,
+  "label_Text": "From Date"
+ },
+ {
+  "label_Id": 2855,
+  "label_Text": "To Date"
+ },
+ {
+  "label_Id": 2856,
+  "label_Text": "Show Notes"
+ },
+ {
+  "label_Id": 2857,
+  "label_Text": "Show Or Hide Remarks"
+ },
+ {
+  "label_Id": 2858,
+  "label_Text": "Remarks 1"
+ },
+ {
+  "label_Id": 2859,
+  "label_Text": "Remarks 2"
+ },
+ {
+  "label_Id": 2860,
+  "label_Text": "Remarks 3"
+ },
+ {
+  "label_Id": 2861,
+  "label_Text": "Remarks 4"
+ },
+ {
+  "label_Id": 2862,
+  "label_Text": "Remarks 5"
+ },
+ {
+  "label_Id": 2863,
+  "label_Text": "Box Account"
+ },
+ {
+  "label_Id": 2864,
+  "label_Text": "Export Data"
+ }
+]

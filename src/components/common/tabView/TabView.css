@@ -1,0 +1,40 @@
+.TabView {
+    width: 100%;
+  }
+  
+  .TabView .title {
+    font-weight: bold;
+    padding: 0.5em;
+  }
+  
+  .TabView .body {
+    padding: 1em;
+  }
+  
+  .TabView .tabs {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+  }
+  
+  .TabView .tabs .tab {
+    padding: 5px 1em;
+    border: 1px solid rgb(19, 18, 18);
+  }
+  
+  .TabView .tabs .active-tab {
+    padding: 5px 1em;
+    border-inline-start: 1px solid rgb(14, 13, 13);
+    border-top: 1px solid rgb(19, 18, 18);
+    border-inline-end: 1px solid rgb(19, 18, 18);
+    background-color: lightgray;
+  }
+  
+  .TabView .content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 1em;
+    background-color: rgb(56, 50, 50);
+  }
